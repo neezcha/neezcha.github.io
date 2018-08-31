@@ -24,7 +24,9 @@ Mars Water Extraction (MWE) is an on going project created and lead by Agnes Str
 
 To do this we made a decision matrix focousing on the probablity of water, the posibility of life, regional topography, past and current missions, and extraction technology. I was incharge of weather, maping out mars, and focousing on regional topography of areas of intrest regarding soil density, rover conditions, and landing radious. Our information primerally came form reasearch papers disscussing the large amounts of data found regarding a specific topic, and a few academic articles. This project helped me become much more comftroable reading and reasearching lengthy academic papers, even when asspects of the reasearch are out of my scope of understanding I am still able to disern the main points and the information I need.  
 
+
 May 2018 we presented our findings at the HESTEMP conference where NASA representatives were present.
+
 October 2018 we plan to present a proposal to NASA, regarding potential ideas/inovations for the 2020 Mars mission.  
 
 
