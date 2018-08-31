@@ -109,17 +109,17 @@
       ]
     }
   ],
-  "volunteer": [
+  "Volenteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "organization": "Kahala Nui",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "position": "Volenteer",
+      "startDate": "2017-09-21",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Current: Bingo and Art Class, weekly",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Set up, clean up, and assisting the residents",
+        "Other activities: Horse Racing, Spa Day, Memory Support, Poker, ect. "
       ]
     },
     {
