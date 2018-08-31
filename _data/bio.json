@@ -50,7 +50,7 @@
         "organization",
         "personal accountability",
         "perosnal wellness",
-        "selfcare"
+        "mindfullness"
       ]
     },
     {
@@ -72,14 +72,13 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
+        "Javascript"
       ]
     },
     {
       "name": "Proficient",
       "level": "",
       "keywords": [
-        "exel",
         "exel spread sheet",
         "powerpoint",
         "microsoft"
@@ -108,10 +107,10 @@
       "summary": "Commision sails on Hawaiian Jewlry, engravings, wood paddles, and Hawai'ian Weapans"
     }
   ],
-  "Volenteer": [
+  "volenteer": [
     {
       "organization": "Kahala Nui",
-      "website": "http://manoa.hawaii.edu/reis",
+      "website": "http://www.kahalanui.com/,
       "position": "Volenteer",
       "startDate": "2017-09-21",
       "endDate": "Present",
@@ -120,19 +119,16 @@
         "Set up, clean up, and assisting the residents",
         "Other activities: Horse Racing, Spa Day, Memory Support, Poker, ect. "
       ]
-    },
+    }
+  ], 
+  "certifications:"[ 
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      "organization": "American Heart Association",
+      "website": "https://www.heart.org/",
+      "position": "Heartsaver First Aid CPR AED Certification",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "Through The University of Hawai'is KRS 332 Emergency Responce class",
     }
   ],
   "awards": [
@@ -146,7 +142,7 @@
       "title": "Service Learnign Award",
       "date": "2016 - Present",
       "awarder": "Manoa Service Award",
-      "summary": "Scholarship for studying as a full time student while regularly volenteering"
+      "summary": "Scholarship for studying as a full time student durring the regular accademic semester while regularly volenteering"
     },
     {
       "title": "American Society for Quality (ASQ)",
