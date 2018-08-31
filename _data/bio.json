@@ -110,7 +110,7 @@
   "volenteer": [
     {
       "organization": "Kahala Nui",
-      "website": "http://www.kahalanui.com/,
+      "website": "http://www.kahalanui.com/",
       "position": "Volenteer",
       "startDate": "2017-09-21",
       "endDate": "Present",
@@ -148,7 +148,8 @@
       "title": "American Society for Quality (ASQ)",
       "date": "2015",
       "awarder": "Glenn Hamamura Scholarship ",
-      "summary": "Scholarship for students in the STEM feils http://207.67.83.164/java_members/calendar/displayEvent.jsp?event_id=13788"
+      "website": "http://207.67.83.164/java_members/calendar/displayEvent.jsp?event_id=13788",
+      "summary": "Scholarship for students in the STEM feils "
     }
   ],
   "references": [
