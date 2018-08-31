@@ -18,7 +18,7 @@ summary: A Proposal of Martian Landing Sites Based on In-Situ Resource Utilizati
 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/MWE 1.jpg">
+<img class="ui medium right floated rounded image" src="../images/MWE 1.0.png">
 
 Mars Water Extraction (MWE) is an on going project created and lead by Agnes Straatman, mentored by Dr. Aaron Hanai, Dr. Dilmurat Azimov, and Li-Anne Delavega. The focous of this project is to analyze existing reaserch and compile the information into specific locations for future pursuit on Mars regarding water. 
 
