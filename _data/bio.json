@@ -139,15 +139,21 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2015-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
+      "title": "Service Learnign Award",
+      "date": "2016 - Present",
+      "awarder": "Manoa Service Award",
+      "summary": "Scholarship for studying as a full time student while regularly volenteering"
+    },
+    {
+      "title": "American Society for Quality (ASQ)",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "Glenn Hamamura Scholarship ",
+      "summary": "Scholarship for students in the STEM feils http://207.67.83.164/java_members/calendar/displayEvent.jsp?event_id=13788"
     }
   ],
   "references": [
