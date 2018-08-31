@@ -32,7 +32,6 @@ The Lanikai Science Squad—four 7th grade students who formed an Ecybermission 
   <img class="ui image" src="../images/DPGO 5.jpg">
 </div>
 
-Homemade pest control made from organic materials maybe be a solution because it won’t harm humans or our environment in the process.
 
 The Lanikai Science Squad competed in the Army Education Outreach Program (AEOP)'s eCyber Mission Competion (ECM) they won 7th grade first palce nationally, and a grant to help spread their findings to their comunity. I acted as a mentor to help the team fufil the requirmets of their grant. 
 
