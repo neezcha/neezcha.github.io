@@ -49,18 +49,18 @@
         "cleanliness",
         "organization",
         "personal accountability",
-        "perosnal wellness",
+        "personal wellness",
         "mindfullness"
       ]
     },
     {
-      "name": "Cultral Awearness",
+      "name": "Cultural Awareness",
       "keywords": [
         "culture",
-        "cultral awearness",
-        "representaion",
+        "cultural awareness",
+        "representation",
         "respect",
-        "cultral exchange"        
+        "cultural exchange"        
       ]
     }
   ],
@@ -102,7 +102,7 @@
       "area": "Heartsaver First Aid CPR AED Certification",
       "startDate": "2018",
       "endDate": "2020",
-      "courses": [ "Through The University of Hawai'is KRS 332 Emergency Responce class" ],
+      "courses": [ "Through The University of Hawai'is KRS 332 Emergency Response class" ],
     }
   ],
   "work": [
@@ -112,11 +112,11 @@
       "website": "https://tikitiki.com/",
       "startDate": "2014",
       "endDate": "2015",
-      "summary": "Commision sails on Hawaiian Jewlry, engravings, wood paddles, and Hawai'ian Weapans"
+      "summary": "Commission sails on Hawaiian Jewelry, engravings, wood paddles, and Hawai'ian Weapons"
     },
     {
       "company": "Kahala Nui",
-      "position": "Volenteer",
+      "position": "Volunteer",
       "website": "http://www.kahalanui.com/",
       "startDate": "2017-09-21",
       "endDate": "Present",
@@ -135,16 +135,16 @@
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "Service Learnign Award",
+      "title": "Service Learning Award",
       "date": "2016 - Present",
       "awarder": "Manoa Service Award",
-      "summary": "Scholarship for studying as a full time student durring the regular accademic semester while regularly volenteering"
+      "summary": "Scholarship for studying as a full time student during the regular academic semester while regularly volunteering"
     },
     {
       "title": "American Society for Quality (ASQ)",
       "date": "2015",
       "awarder": "Glenn Hamamura Scholarship ",
-      "summary": "Scholarship for students in the STEM feils"
+      "summary": "Scholarship for students in the STEM fields"
     }
   ],
   "references": [
