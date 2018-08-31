@@ -97,9 +97,9 @@
       ]
     },
     {
-      "organization": "American Heart Association",
+      "institution": "American Heart Association",
       "website": "https://www.heart.org/",
-      "position": "Heartsaver First Aid CPR AED Certification",
+      "area": "Heartsaver First Aid CPR AED Certification",
       "startDate": "2018",
       "endDate": "2020",
       "summary": "Through The University of Hawai'is KRS 332 Emergency Responce class",
@@ -115,9 +115,9 @@
       "summary": "Commision sails on Hawaiian Jewlry, engravings, wood paddles, and Hawai'ian Weapans"
     },
     {
-      "organization": "Kahala Nui",
-      "website": "http://www.kahalanui.com/",
+      "company": "Kahala Nui",
       "position": "Volenteer",
+      "website": "http://www.kahalanui.com/",
       "startDate": "2017-09-21",
       "endDate": "Present",
       "summary": "Current: Bingo and Art Class, weekly",
