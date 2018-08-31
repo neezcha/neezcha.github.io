@@ -18,7 +18,7 @@ labels:
   - website
 summary: The Lanikai Science Squad competed in the Army Education Outreach Program (AEOP)'s eCyber Mission Competion and won 7th grade first palce nationally, and a grant to help spread their findings to their comunity. I acted as a mentor to help the team fufil the requirmets of their grant. 
 ---
-<img class="ui medium right floated rounded image" src="../images/DPGO0">
+<img class="ui medium right floated rounded image" src="../images/DPGO0.jpg">
 The Lanikai Science Squad—four 7th grade students who formed an Ecybermission science team, identified a community problem: 98% of Hawaii farms are using synthetic pesticides on their crops. To protect the aina, they are found a more natural alternative to synthetic pesticide by making their own organic pest control. They discovered a low cost replacement for synthetic pesticide at $.13 per ounce, with natural ingredients including garlic and Hawaiian chili pepper. The data showed that organic pest control works just as well as synthetic pesticide in:
 
 • preventing pests from damaging the crops
