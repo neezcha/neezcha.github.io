@@ -26,6 +26,6 @@ I was incharge of the astronaut's movements, using a state machine for the diffe
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/SM 0.png">
-  <img class="ui image" src="../images/SM 1.jpg">
+  <img class="ui image" src="../images/SM 1.png">
 </div>
 
