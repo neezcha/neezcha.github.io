@@ -97,6 +97,16 @@
       ]
     }
   ],
+  "certifications": [ 
+    {
+      "organization": "American Heart Association",
+      "website": "https://www.heart.org/",
+      "position": "Heartsaver First Aid CPR AED Certification",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "Through The University of Hawai'is KRS 332 Emergency Responce class",
+    }
+  ],
   "work": [
     {
       "company": "Tiki Tiki",
@@ -119,16 +129,6 @@
         "Set up, clean up, and assisting the residents",
         "Other activities: Horse Racing, Spa Day, Memory Support, Poker, ect. "
       ]
-    }
-  ], 
-  "certifications": [ 
-    {
-      "organization": "American Heart Association",
-      "website": "https://www.heart.org/",
-      "position": "Heartsaver First Aid CPR AED Certification",
-      "startDate": "2018",
-      "endDate": "2020",
-      "summary": "Through The University of Hawai'is KRS 332 Emergency Responce class",
     }
   ],
   "awards": [
