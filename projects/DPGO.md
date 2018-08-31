@@ -34,12 +34,12 @@ To help the girls stay organised and document their progress for the grant, I cr
 The Organic Garden Starter Kit is made available for educational purposes. 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/DPGO0.jpeg">
+  <img class="ui image" src="../images/DPGO0.jpg">
   <img class="ui image" src="../images/DPGO 1.jpeg">
-  <img class="ui image" src="../images/DPGO 2.jpeg">
-  <img class="ui image" src="../images/DPGO 3.jpeg">
-  <img class="ui image" src="../images/DPGO 4.jpeg">
-  <img class="ui image" src="../images/DPGO 5.jpeg">
+  <img class="ui image" src="../images/DPGO 2.jpg">
+  <img class="ui image" src="../images/DPGO 3.jpg">
+  <img class="ui image" src="../images/DPGO 4.jpg">
+  <img class="ui image" src="../images/DPGO 5.jpg">
 </div>
 
 
