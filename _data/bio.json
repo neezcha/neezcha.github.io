@@ -29,6 +29,11 @@
         "network": "instagram",
         "username": "Neezcha",
         "url": "http://instagram.com/neechachacha"
+      },
+      {
+        "network": "facebook",
+        "username": "Neezcha Dinman",
+        "url": "https://www.facebook.com/profile.php?id=100007626198830"
       }
     ]
   },
@@ -98,7 +103,6 @@
     },
     {
       "institution": "American Heart Association",
-      #"website": "https://www.heart.org/",
       "area": "Heartsaver First Aid CPR AED Certification",
       "startDate": "2018",
       "endDate": "2020",
