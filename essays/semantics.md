@@ -30,4 +30,4 @@ A title good title contains the relevant keywords(instead of simply relying on t
 No matter your field you cannot truly escape some form of human interaction and with human interaction comes mistakes. “To err is human” (Alexander Pope, "Essay on Criticism"). There’s no need to beat yourself up over past mistakes because we all make them. Rather, this is an opportunity to look forward with your awareness of humanities inherent flaws, take them into consideration, and proceed with preparations for a smoother and more fruitful experience. We are all experiencing this life simultaneously in radically different ways, let's make this day easier on all of us! 
 
 
-[Meteor](http://meteor.com)
+
