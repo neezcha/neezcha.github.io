@@ -61,8 +61,6 @@
     {
       "name": "Cultural Awareness",
       "keywords": [
-        "culture",
-        "cultural awareness",
         "representation",
         "respect",
         "cultural exchange"        
@@ -84,9 +82,11 @@
       "name": "Proficient",
       "level": "",
       "keywords": [
-        "exel spread sheet",
-        "powerpoint",
-        "microsoft"
+        "Exel Spread Sheet",
+        "Powerpoint",
+        "Microsoft",
+        "Windows",
+        "Eclips"
       ]
     }
   ],
@@ -103,7 +103,8 @@
     },
     {
       "institution": "American Heart Association",
-      "area": "Heartsaver First Aid CPR AED Certification",
+      "studyType": "Certification",
+      "area": "Heartsaver First Aid CPR AED",
       "startDate": "2018",
       "endDate": "2020",
       "courses": [ "Through The University of Hawai'is KRS 332 Emergency Response class" ],
