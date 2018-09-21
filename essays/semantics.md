@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Greek’s Knew A Few Things
+title: The Greeks Knew A Few Things
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-06
 labels:
