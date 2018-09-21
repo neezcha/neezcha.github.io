@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Juding a book by its cover
+title: Juding a Book by it's Cover
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-20
 labels:
