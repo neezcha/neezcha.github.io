@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Phone Fishing
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-04
+date: 2018-10-04
 labels:
   - computer science
   - Semantic UI
