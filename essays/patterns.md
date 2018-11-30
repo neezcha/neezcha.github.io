@@ -10,8 +10,6 @@ labels:
   - meteor
   - software engineering
 ---
-## Patterns Everywhere!
-
 
 [<img class="ui tiny left circular floated image" src="../images/potatoFace.jpg">](https://imgflip.com/memetemplate/108029969/Potato-face)
 
