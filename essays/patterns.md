@@ -12,8 +12,10 @@ labels:
 ---
 ## Patterns Everywhere!
 
-Humans are incredibly good at finding patterns in the world around us. This can be adventitious, like back in the day, connecting a certain type of berry to people getting sick could save lives. It can also be dangerous, like when someone gets sick after a flu shot and becomes convinced that vaccinations are harmful. There are also patterns that mean nothing but still find fun, like potatoes shaped like a face.
+
 [<img class="ui tiny left circular floated image" src="../images/potatoFace.jpg">](https://imgflip.com/memetemplate/108029969/Potato-face)
+
+Humans are incredibly good at finding patterns in the world around us. This can be adventitious, like back in the day, connecting a certain type of berry to people getting sick could save lives. It can also be dangerous, like when someone gets sick after a flu shot and becomes convinced that vaccinations are harmful. There are also patterns that mean nothing but still find fun, like potatoes shaped like a face.
 
 Whatever your stance on vaccinations maybe, recognizing patterns has been one of humanity's greatest assets, along with opposable thumbs. As described above, patterns can help, can hurt, can be fun, and can be applied to all aspects of life. One aspect of life for me is coding, specifically software engineering this semester. One element of software engineering that can help a new coder advice farther and quicker, is Design Patterns as originally patented by Christopher Alexander in 1977. While the term was coined a very long time ago and the code examples used are mostly outdated, the concept of it can still be useful today. Design Patterns are based around the humans natural pattern seeking nature, as there are problems faced coders that seem to recur with the same core issues, instead of resolving these problems every time they arise, coders can reference pre well thought out solutions. This speeds up the coding process for newbies and experienced coders. In order to focus on the larger task at hand, it would be painful to continuously have to redesign solutions.
 
