@@ -14,19 +14,27 @@ labels:
   - HESTEMP
   - NASA
   - MWE 
-summary: A Proposal of Martian Landing Sites Based on In-Situ Resource Utilization From Water Extraction
+summary: An ongoing research project, focused on finding locations, tools, and methods that can provide water on Mars for scientific interest and possible future missions.
 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/MWE 1.0.png">
 
-Mars Water Extraction (MWE) is an ongoing project created and lead by Agnes Straatman, mentored by Dr. Aaron Hanai, Dr. Dilmurat Azimov, and Li-Anne Delavega. The focus of this project is to analyze existing research and compile the information into specific locations for future pursuit on Mars regarding water.
+With the continued efforts of planetary exploration of Mars, the possibility of a manned mission has increased, along with the need for resources. Both local and imported. Through the use of In-Situ Resource Utilization (ISRU), resources such as water, can be extracted from the local environment in a variety of ways. 
 
-To do this we made a decision matrix focusing on the probability of water, the possibility of life, regional topography, past and current missions, and extraction technology. I was in charge of weather, mapping out mars, and focusing on regional topography of areas of interest regarding soil density, rover conditions, and landing radius. Our information primarily came from research papers discussing the large amounts of data found regarding a specific topic, and a few academic articles. This project helped me become much more comfortable reading and researching lengthy academic papers, even when aspects of the research are out of my scope of understanding I am still able to discern the main points and the information I need.
 
-May 2018 we presented our findings at the Spring 2018 [HESTEMP](http://manoa.hawaii.edu/hestemp/) conference where NASA representatives were present.
+Mars Water Extraction (MWE), is an ongoing research project was created by Agnes  Straatman, and is lead by Mahea Kini, mentored by Dr. Aaron Hanai, Dr. Dilmurat Azimov, and Li-Anne Delavega. 
 
-October 2018 we plan to present a proposal to NASA, regarding potential ideas/innovations for the 2020 Mars mission.
+# May 2018 we presented our 14 locations of interest at the Spring 2018 [HESTEMP](http://manoa.hawaii.edu/hestemp/) conference where NASA representatives were present.
+
+ The first phase of this project was to analyze existing research and compile the information into locations of intest for future pursuit on Mars regarding water. To do this we made a decision matrix focusing on the probability of water, the possibility of life, regional topography, past and current missions, and extraction technology. I was in charge of weather, mapping out mars, and focusing on regional topography of areas of interest regarding soil density, rover conditions, and landing radius. This project helped me become much more comfortable reading and researching lengthy academic papers, even when aspects of the research are out of my scope of understanding I am still able to discern the main points and the information I need.
+
+# December 2018 we presented our optimal landing location along with our future plans at the Fall 2018 [HESTEMP](http://manoa.hawaii.edu/hestemp/) conference. 
+
+Our Primary Goal was to to determine an optimal landing location, by narrowing down our 14 locations of interest, presented on Spring 2018 HESTEMP. Our Secondary Goal is to design and build a rover for NASA’s upcoming Robotic Mining Competition. During this I continued researching into locations on Mars using the Java Mission-planning and Analysis for Remote Sensing (JMARS) program. 
+
+# Future Plans 
+We are currently planning our future research; looking into budget and costs of parts, researching sources for funding, and recruiting new members for this more engineering oriented phase. 
 
 
 
