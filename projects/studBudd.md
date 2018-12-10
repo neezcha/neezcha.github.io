@@ -7,11 +7,11 @@ permalink: projects/MWE
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-09
 labels:
-  - Metero
+  - Meteor
   - Semantic UI
   - Software Engineering
   - React
-  - Projcet Managment 
+  - Project Management 
   - Web Development
   - Website  
 summary: A website developed for UH students to connect with fellow students who are proficient in a subject field and peers studying similar topics. 
