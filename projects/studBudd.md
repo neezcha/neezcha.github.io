@@ -26,7 +26,7 @@ Milestone two only really specified the need for increased functionality, so we 
 
 For milestone three we shifted gears, working on pulling from our working collections, and designing an intuitive usable website. This milestone I implemented a working Class List page using a nested underscore function to pull from our collection, cleaned up the landing page, and worked on a various of bug issues.
 
-This was one of the largest projects I have worked on from the ground up and I have learned a lot about project management and feature I can use on github. At first creating Issues was difficult for our group, we would assign easy task as a whole issue and large task with multiple parts as another issue, but by milestone two I had a much better sense of how to break up large tasks into reasonable sizes. That way everyone can regularly to check off progress for updates and moral boost. 
+This was one of the largest projects I have worked on from the ground up and I have learned a lot about project management and features I can use on github. At first creating Issues was difficult for our group, we would assign easy task as a whole issue and large task with multiple parts as another issue, but by milestone two I had a much better sense of how to break up large tasks into reasonable sizes. That way everyone can regularly to check off progress for updates and moral boost. 
 <div class="ui small rounded images">
 <img src="https://raw.githubusercontent.com/studbudd/studbudd.github.io/master/doc/StudBudd3-transperent.png">
 </div>
