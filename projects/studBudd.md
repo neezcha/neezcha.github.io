@@ -17,7 +17,7 @@ labels:
 summary: A website developed for UH students to connect with fellow students who are proficient in a subject field and peers studying similar topics. 
 
 ---
-<div class="ui medium rounded images">
+<div class="ui small rounded images">
 <img src="https://raw.githubusercontent.com/studbudd/studbudd.github.io/master/doc/StudBudd3-transperent.png">
 </div>
 
