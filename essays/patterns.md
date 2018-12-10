@@ -5,10 +5,11 @@ title: Patterns Everywhere!
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-29
 labels:
-  - computer science
-  - design pattern
-  - meteor
-  - software engineering
+  - Computer Science
+  - Design Patterns
+  - Meteor
+  - Software Engineering
+
 ---
 
 [<img class="ui tiny left circular floated image" src="../images/potatoFace.jpg">](https://imgflip.com/memetemplate/108029969/Potato-face)
