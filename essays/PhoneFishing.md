@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Phone Fishing
+title: Fishing with Semantic UI
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
