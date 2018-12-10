@@ -5,7 +5,7 @@ title: Fishing with Semantic UI
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
-  - computer science
+  - Computer Science
   - Semantic UI
   - HTML
   - CSS
