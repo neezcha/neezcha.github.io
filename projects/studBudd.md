@@ -18,7 +18,7 @@ summary: A website developed for UH students to connect with fellow students who
 
 ---
 <div class="ui medium rounded images">
-[<img src="https://raw.githubusercontent.com/studbudd/studbudd.github.io/master/doc/StudBudd3-transperent.png">](https://github.com/studbudd)
+<img src="https://raw.githubusercontent.com/studbudd/studbudd.github.io/master/doc/StudBudd3-transperent.png">
 </div>
 
 [StudBudd](https://studbudd.github.io/) is a website developed for ICS 314 Software Engineering, using  Meteor, React and Semantic UI. For our final project we were grouped into teams of three or four to work on building a functioning website that can benefit the local student community. StudBudd’s goal is to help students connect with fellow students who are proficient in a subject field and peers studying similar topics.
