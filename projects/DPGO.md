@@ -13,7 +13,7 @@ labels:
   - ECM
   - AEOP 
   - eCyberMision
-  - Army Education Outrach Program
+  - Army Education Outreach Program
   - Grant
   - Website
 summary: The Lanikai Science Squad competed in the Army Education Outreach Program (AEOP)'s eCyberMission Competition. The group won 7th grade first place nationally, and a grant to help spread their findings to their community. I acted as a mentor to help the team fulfil the requirements of their grant. 
