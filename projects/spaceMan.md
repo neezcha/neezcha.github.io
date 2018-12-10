@@ -8,9 +8,9 @@ permalink: projects/spaceMan
 date: 2016-12-04
 labels:
   - Java 
-  - eclips
-  - game
-  - ics 111
+  - Eclips
+  - Game
+  - ICS 111
 summary: A game my groupd and I developed for ICS 111.
 ---
 
