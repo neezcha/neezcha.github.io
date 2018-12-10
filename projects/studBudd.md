@@ -26,9 +26,11 @@ Milestone two only really specified the need for increased functionality, so we 
 
 For milestone three we shifted gears, working on pulling from our working collections, and designing an intuitive usable website. This milestone I implemented a working Class List page using a nested underscore function to pull from our collection, cleaned up the landing page, and worked on a various of bug issues.
 
+Bellow is some example code of the nested underscore fucntion I used to *_.filter* out mentors who have the specified *subject* in their *class* feild and then *_. map* those mentors using their card component, *MentorCard*, onto the page.  
+
 ```js
 {this.props.mentors.filter(
-                  mentor => (this.state.activeIndex && (this.state.activeIndex.includes((mentor.class1)))),
+                  mentor => (this.state.subject && (this.state.subject.includes((mentor.class)))),
               ).map(
                   (mentor, index) => <MentorCard key={index} mentor={mentor} />,
               )}
