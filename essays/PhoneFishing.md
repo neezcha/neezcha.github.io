@@ -11,7 +11,7 @@ labels:
   - CSS
 ---
 
-[<img class="ui right medium image" src="../images/fishing.png">](https://openclipart.org/detail/254447/fishing-boy-silhouette)
+[<img class="ui right floated medium image" src="../images/fishing.png">](https://openclipart.org/detail/254447/fishing-boy-silhouette)
 Imagine this; you drop your phone in the crack between you bed and the wall. The only thing tethering it to this world is it’s charger, which will easily unplug if jerked too much. You pull. Carefully, gently, twisting the corder in a vain attempt to shift the slant of your phone. But it is lodged in at an angle that shouldn't be possible by virtue of the way it fell.  Lost in the divide, it taunts you. Your chest burns and constricts. You had held your breath in anticipation, giving full focus the rescue, but it has taken too long and the lack of air hurts but the lack of phone is far more concerning. You cannot abandon this quest. With a deep breath, you jiggle the charger. This does nothing, and you knew that. The frustration builds, until suddenly a ping echoes through and under the caverns of your bed. A text. Stubbornness gives way to urgency, exasperation to  determination. Finally, you concede. Instead of trying to free the darn thing from atop your bed, you get off and pull the mattress out of bit. The newly created gape is just enough to fit your fat hand and save the phone. Of course, the text probably wasn’t that important but the relief of the reunion soothes your very soul. 
 
 [<img class="ui tiny left circular floated image" src="https://react.semantic-ui.com/logo.png">](https://react.semantic-ui.com/)
