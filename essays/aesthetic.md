@@ -20,5 +20,5 @@ In an increasingly interdependent world it is becoming rarer and rarer for anyon
 
 ## Coding Standards 
 
-<img class="ui rounded medium image" src="../images/WOD-codingStandards.png">
+<img class="ui rounded image" src="../images/WOD-codingStandards.png">
 Above is an example of code formatted in adherence to ics-se-code style for JavaScript Coding Quality Tool ESLint, Javascript version ECMAScript6, as required for ICS 314. Notice how the variable *className="topmenu"* unambiguously represents what the variable stands for, and how each indented level represents the different scopes each element is apart of. 
