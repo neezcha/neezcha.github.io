@@ -20,13 +20,13 @@ summary: A website developed for UH students to connect with fellow students who
 
 [StudBudd](https://studbudd.github.io/)is a website developed for ICS 314 Software Engineering, using  Meteor, React and Semantic UI. For our final project we were grouped into teams of three or four to work on building a functioning website that can benefit the local student community. StudBudd’s goal is to help students connect with fellow students who are proficient in a subject field and peers studying similar topics.
 
-The final project was partitioned into three milestones.  Milestone one was focused on a functional aesthetic landing page that users would first be created with, along with a few non functional mockup pages. I was incharge of the navigation bar at the top,  and the mockup pages - some with restricted access depending on the role the user is signed in as. 
+The final project was partitioned into three milestones.  **Milestone one** was focused on a functional aesthetic landing page that users would first be created with, along with a few non functional mockup pages. I was incharge of the navigation bar at the top,  and the mockup pages - some with restricted access depending on the role the user is signed in as. 
 
-Milestone two only really specified the need for increased functionality, so we constructed collections and focused on being able to add to those collections. For this milestone I filled out the mockup pages, such as Class List, Instructions, and the now deleted Mentors page that was mainly a tester to show that the collections worked. 
+**Milestone two** only really specified the need for increased functionality, so we constructed collections and focused on being able to add to those collections. For this milestone I filled out the mockup pages, such as Class List, Instructions, and the now deleted Mentors page that was mainly a tester to show that the collections worked. 
 
-For milestone three we shifted gears, working on pulling from our working collections, and designing an intuitive usable website. This milestone I implemented a working Class List page using a nested underscore function to pull from our collection, cleaned up the landing page, and worked on a various of bug issues.
+For **milestone three** we shifted gears, working on pulling from our working collections, and designing an intuitive usable website. This milestone I implemented a working Class List page using a nested underscore function to pull from our collection, cleaned up the landing page, and worked on a various of bug issues.
 
-Bellow is some example code of the nested underscore fucntion I used to *_.filter* out mentors who have the specified *subject* in their *class* feild and then *_. map* those mentors using their card component, *MentorCard*, onto the page.  
+Bellow is some **example code** of the nested underscore fucntion I used to *_.filter* out mentors who have the specified *subject* in their *class* feild and then *_. map* those mentors using their card component, *MentorCard*, onto the page.  
 
 ```js
 {this.props.mentors.filter(
