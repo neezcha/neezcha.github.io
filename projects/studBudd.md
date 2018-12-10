@@ -5,7 +5,7 @@ image: images/StudBudd3-transperent-book.png
 title:  StudBudd
 permalink: projects/MWE
 # All dates must be YYYY-MM-DD format!
-date: 2018-05-19
+date: 2018-12-09
 labels:
   - Metero
   - Semantic UI
