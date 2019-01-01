@@ -27,8 +27,11 @@ body {
 }
 
 //Customize the text color of everything
-body, h1, h2, h3, h4, h5, .ui.menu.item, a, p, .ui.header, .ui.menu.active.item, a.ui.menu.item, a.ui.menu.active.item {
+body, h1, h2, h3, h4, h5, .ui.menu.item, a, p, .ui.header {
   color: white;
+}
+ .nonprintable{
+   color: white;
 }
 
 
