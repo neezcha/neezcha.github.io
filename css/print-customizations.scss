@@ -4,31 +4,13 @@
 
 // Put your custom CSS for printing pages here.
 
-@charset "utf-8";
-
-// Used to remove menubar from page when printing.
-.nonprintable {
-  display: none;
-}
-
-
 @media print {
   
  p, a, li {
-    font-size: 12px;
     color: white;
   }
 
   h1, h2.ui.header, h3.ui.header {
-    font-size: 14px;
     color: white;
-  }
-  
-  a {
-    color: white;
-  }
-    ul li {
-    padding: 0px;
-    margin: 0px;
   }
 }
