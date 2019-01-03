@@ -31,7 +31,7 @@ Mars Water Extraction (MWE), is an ongoing research project was created by Agnes
 
 # December 2018 we presented our optimal landing location along with our future plans at the Fall 2018 [HESTEMP](http://manoa.hawaii.edu/hestemp/) conference. 
 
-Our Primary Goal was to to determine an optimal landing location, by narrowing down our 14 locations of interest, presented on Spring 2018 HESTEMP. Our Secondary Goal is to design and build a rover for NASA’s upcoming Robotic Mining Competition. During this I continued researching into locations on Mars using the Java Mission-planning and Analysis for Remote Sensing (JMARS) program. 
+Our Primary Goal was to to determine an optimal landing location, by narrowing down our 14 locations of interest, presented on Spring 2018 HESTEMP. Our Secondary Goal is to design and build a rover for NASA’s upcoming Robotic Mining Competition. During this I continued researching into locations on Mars using the Java Mission-planning and Analysis for Remote Sensing [(JMARS)](https://jmars.asu.edu/) program. 
 
 # Future Plans 
 We are currently planning our future research; looking into budget and costs of parts, researching sources for funding, and recruiting new members for this more engineering oriented phase. 
