@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/StudBudd3-transperent-book.png
 title:  StudBudd
-permalink: projects/MWE
+permalink: projects/studBudd
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-09
 labels:
