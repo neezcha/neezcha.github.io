@@ -39,7 +39,7 @@
   },
   "interests": [
     {
-      "name": "Space",
+      "name": "Astronomy",
       "keywords": [
         "space",
         "astronomy"
@@ -50,8 +50,6 @@
       "keywords": [
         "yoga",
         "skin care",
-        "fashion",
-        "cleanliness",
         "organization",
         "personal accountability",
         "personal wellness",
@@ -63,7 +61,8 @@
       "keywords": [
         "representation",
         "respect",
-        "cultural exchange"        
+        "cultural exchange",
+        "sustainability"
       ]
     }
   ],
@@ -75,7 +74,10 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Semantic UI"
       ]
     },
     {
@@ -86,7 +88,8 @@
         "Powerpoint",
         "Microsoft",
         "Windows",
-        "Eclips"
+        "Eclips",
+        "React in Meteor"
       ]
     }
   ],
