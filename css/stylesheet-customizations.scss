@@ -28,6 +28,12 @@ body {
 }
 
 //Customize the text color of everything
+body, h1, h2, h3, h4, h5, .ui.menu.item, a, p, .ui.header {
+  color: white;
+}
+.ui.menu, .ui.menu.item, .ui.menu.active.item {
+  color: white;
+}
 a.ui.stackable.menu, .ui.stackable.menu, nav.ui.stackable.menu, nav.menu, nav.ui.menu, ui.stackable.menu{
   color:white;
 }
