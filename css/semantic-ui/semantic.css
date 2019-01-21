@@ -2868,6 +2868,169 @@ input::selection {
   color: #2ECC40 !important;
 }
 
+/*--- darkgreen ---*/
+
+.ui.darkgreen.buttons .button,
+.ui.darkgreen.button {
+  background-color: #043327;
+  color: #FFFFFF;
+  text-shadow: none;
+  background-image: none;
+}
+
+.ui.darkgreen.button {
+  box-shadow: 0px 0em 0px 0px rgba(34, 36, 38, 0.15) inset;
+}
+
+.ui.darkgreen.buttons .button:hover,
+.ui.darkgreen.button:hover {
+  background-color: #064c3a;
+  color: #FFFFFF;
+  text-shadow: none;
+}
+
+.ui.darkgreen.buttons .button:focus,
+.ui.darkgreen.button:focus {
+  background-color: #064c3a;
+  color: #FFFFFF;
+  text-shadow: none;
+}
+
+.ui.darkgreen.buttons .button:active,
+.ui.darkgreen.button:active {
+  background-color: #064c3a;
+color: #FFFFFF;
+  text-shadow: none;
+}
+
+.ui.darkgreen.buttons .active.button,
+.ui.darkgreen.buttons .active.button:active,
+.ui.darkgreen.active.button,
+.ui.darkgreen.button .active.button:active {
+  background-color: #064c3a;
+  color: #FFFFFF;
+  text-shadow: none;
+}
+
+/* Basic */
+
+.ui.basic.darkgreen.buttons .button,
+.ui.basic.darkgreen.button {
+  box-shadow: 0px 0px 0px 1px #043327 inset !important;
+  color: #043327 !important;
+}
+
+.ui.basic.darkgreen.buttons .button:hover,
+.ui.basic.darkgreen.button:hover {
+  background: transparent !important;
+  box-shadow: 0px 0px 0px 1px #064c3a inset !important;
+  color: #064c3a !important;
+}
+
+.ui.basic.darkgreen.buttons .button:focus,
+.ui.basic.darkgreen.button:focus {
+  background: transparent !important;
+  box-shadow: 0px 0px 0px 1px #064c3a inset !important;
+  color: #064c3a !important;
+}
+
+.ui.basic.darkgreen.buttons .active.button,
+.ui.basic.darkgreen.active.button {
+  background: transparent !important;
+  box-shadow: 0px 0px 0px 1px#064c3a inset !important;
+  color:#064c3a !important;
+}
+
+.ui.basic.darkgreen.buttons .button:active,
+.ui.basic.darkgreen.button:active {
+  box-shadow: 0px 0px 0px 1px#064c3a inset !important;
+  color:#064c3a !important;
+}
+
+.ui.buttons:not(.vertical) > .basic.darkgreen.button:not(:first-child) {
+  margin-left: -1px;
+}
+
+/* Inverted */
+
+.ui.inverted.darkgreen.buttons .button,
+.ui.inverted.darkgreen.button {
+  background-color: transparent;
+  box-shadow: 0px 0px 0px 2px #2ECC40 inset !important;
+  color:#064c3a;
+}
+
+.ui.inverted.darkgreen.buttons .button:hover,
+.ui.inverted.darkgreen.button:hover,
+.ui.inverted.darkgreen.buttons .button:focus,
+.ui.inverted.darkgreen.button:focus,
+.ui.inverted.darkgreen.buttons .button.active,
+.ui.inverted.darkgreen.button.active,
+.ui.inverted.darkgreen.buttons .button:active,
+.ui.inverted.darkgreen.button:active {
+  box-shadow: none !important;
+  color: #FFFFFF;
+}
+
+.ui.inverted.darkgreen.buttons .button:hover,
+.ui.inverted.darkgreen.button:hover {
+  background-color: #064c3a;
+}
+
+.ui.inverted.darkgreen.buttons .button:focus,
+.ui.inverted.darkgreen.button:focus {
+  background-color: #064c3a;
+}
+
+.ui.inverted.darkgreen.buttons .active.button,
+.ui.inverted.darkgreen.active.button {
+  background-color: #064c3a;
+}
+
+.ui.inverted.darkgreen.buttons .button:active,
+.ui.inverted.darkgreen.button:active {
+  background-color: #064c3a;
+}
+
+/* Inverted Basic */
+
+.ui.inverted.darkgreen.basic.buttons .button,
+.ui.inverted.darkgreen.buttons .basic.button,
+.ui.inverted.darkgreen.basic.button {
+  background-color: transparent;
+  box-shadow: 0px 0px 0px 2px rgba(255, 255, 255, 0.5) inset !important;
+  color: #FFFFFF !important;
+}
+
+.ui.inverted.darkgreen.basic.buttons .button:hover,
+.ui.inverted.darkgreen.buttons .basic.button:hover,
+.ui.inverted.darkgreen.basic.button:hover {
+  box-shadow: 0px 0px 0px 2px #064c3a inset !important;
+  Color: #064c3a !important;
+}
+
+.ui.inverted.darkgreen.basic.buttons .button:focus,
+.ui.inverted.darkgreen.basic.buttons .button:focus,
+.ui.inverted.darkgreen.basic.button:focus {
+  box-shadow: 0px 0px 0px 2px #064c3a inset !important;
+  color: #064c3a !important;
+}
+
+.ui.inverted.darkgreen.basic.buttons .active.button,
+.ui.inverted.darkgreen.buttons .basic.active.button,
+.ui.inverted.darkgreen.basic.active.button {
+  box-shadow: 0px 0px 0px 2px #064c3a inset !important;
+  color: #064c3a !important;
+}
+
+.ui.inverted.darkgreen.basic.buttons .button:active,
+.ui.inverted.darkgreen.buttons .basic.button:active,
+.ui.inverted.darkgreen.basic.button:active {
+  box-shadow: 0px 0px 0px 2px#064c3a inset !important;
+  color: #064c3a !important;
+}
+
+
 /*--- Orange ---*/
 
 .ui.orange.buttons .button,
