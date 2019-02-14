@@ -23,7 +23,7 @@ summary: An ongoing research project, focused on finding locations, tools, and m
 With the continued efforts of planetary exploration of Mars, the possibility of a manned mission has increased, along with the need for resources. Both local and imported. Through the use of In-Situ Resource Utilization (ISRU), resources such as water, can be extracted from the local environment in a variety of ways. 
 
 
-Mars Water Extraction (MWE), is an ongoing research project was created by Agnes  Straatman, and is lead by Mahea Kini, mentored by Dr. Aaron Hanai, Dr. Dilmurat Azimov, and Li-Anne Delavega. 
+Mars Water Extraction (MWE), is an ongoing research project created and lead by by Agnes Straatman. Special thanks to Dr. Aaron Hanai, Dr. Dilmurat Azimov, and Li-Anne Delavega for their guidance.  
 
 # May 2018 we presented our 14 locations of interest at the Spring 2018 [HESTEMP](http://manoa.hawaii.edu/hestemp/) conference where NASA representatives were present.
 
@@ -34,8 +34,7 @@ Mars Water Extraction (MWE), is an ongoing research project was created by Agnes
 Our Primary Goal was to to determine an optimal landing location, by narrowing down our 14 locations of interest, presented on Spring 2018 HESTEMP. Our Secondary Goal is to design and build a rover for NASA’s upcoming Robotic Mining Competition. During this I continued researching into locations on Mars using the Java Mission-planning and Analysis for Remote Sensing [(JMARS)](https://jmars.asu.edu/) program. 
 
 # Future Plans 
-We are currently planning our future research; looking into budget and costs of parts, researching sources for funding, and recruiting new members for this more engineering oriented phase. 
-
+We are currently planning our future research; recruiting new members, shifting focouse, and looking into other NASA research opportunities for a new direction in our topic.
 
 
 
