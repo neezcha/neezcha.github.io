@@ -7,27 +7,30 @@
 
 // Customize the background color
 body {
-  // background-color: #f2f2f2;
+  //background-color: #f2f2f2;
   //background-color: #c2d1e4; //light smokey lavender
   //background-color: #1a6854; //green
-  background: #043327 //dark green
+  //background: #043327 //dark green
+  background: #494a4a //grey
 }
 
 // Customize the menubar color
 .ui.menu {
   // background: $background-start;
   //background-color: #b0c4de; //smokey lavender
-  background: #0c493a; //dark green
+  //background: #0c493a; //dark green
 }
 
 // Customize the home page icon colors
 .icon-color {
   // color: silver;
   //background-color: #688ec0; //smokey lavender
-  color: #0c493a;
+  //color: #0c493a; //dark green 
+  color: #494a4a; //grey 
 }
 
 //Customize the text color of everything
+/**********************************************************************************************************
 body, h1, h2, h3, h4, h5, .ui.menu.item, a, p, .ui.header {
   color: white;
 }
@@ -41,6 +44,6 @@ a.ui.stackable.menu, .ui.stackable.menu, nav.ui.stackable.menu, nav.menu, nav.ui
 .menuToCustom, a.menuToCustom, ui.menuToCustom.stackable.menu {
   color: white;
 }
-
+*************************************************************************************************************/
 
 
