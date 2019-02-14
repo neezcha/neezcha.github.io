@@ -25,15 +25,15 @@ With the continued efforts of planetary exploration of Mars, the possibility of 
 
 Mars Water Extraction (MWE), is an ongoing research project created and lead by by Agnes Straatman. Special thanks to Dr. Aaron Hanai, Dr. Dilmurat Azimov, and Li-Anne Delavega for their guidance.  
 
-# May 2018 we presented our 14 locations of interest at the Spring 2018 [HESTEMP](http://manoa.hawaii.edu/hestemp/) conference where NASA representatives were present.
+### May 2018 we presented our 14 locations of interest at the Spring 2018 [HESTEMP](http://manoa.hawaii.edu/hestemp/) conference where NASA representatives were present.
 
  The first phase of this project was to analyze existing research and compile the information into locations of intest for future pursuit on Mars regarding water. To do this we made a decision matrix focusing on the probability of water, the possibility of life, regional topography, past and current missions, and extraction technology. I was in charge of weather, mapping out mars, and focusing on regional topography of areas of interest regarding soil density, rover conditions, and landing radius. This project helped me become much more comfortable reading and researching lengthy academic papers, even when aspects of the research are out of my scope of understanding I am still able to discern the main points and the information I need.
 
-# December 2018 we presented our optimal landing location along with our future plans at the Fall 2018 [HESTEMP](http://manoa.hawaii.edu/hestemp/) conference. 
+### December 2018 we presented our optimal landing location along with our future plans at the Fall 2018 [HESTEMP](http://manoa.hawaii.edu/hestemp/) conference. 
 
 Our Primary Goal was to to determine an optimal landing location, by narrowing down our 14 locations of interest, presented on Spring 2018 HESTEMP. Our Secondary Goal is to design and build a rover for NASA’s upcoming Robotic Mining Competition. During this I continued researching into locations on Mars using the Java Mission-planning and Analysis for Remote Sensing [(JMARS)](https://jmars.asu.edu/) program. 
 
-# Future Plans 
+### Future Plans 
 We are currently planning our future research; recruiting new members, shifting focouse, and looking into other NASA research opportunities for a new direction in our topic.
 
 
