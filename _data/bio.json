@@ -6,7 +6,7 @@
     "email": "neezcha@hawaii.edu",
     "phone": "808-554-6080",
     "website": "https://neezcha.github.io",
-    "summary": "I am studying at UHM for a BS in Computer Science, I expect to graduate Spring 2020 but hope to continue my education past that date. My goal is to create an inclusive and accessible technological world.",
+    "summary": "I am studying at UHM for a BS in Computer Science, I expect to graduate Spring 2020. My goal is to create an inclusive and accessible technological world.",
     "location": {
       "address": "",
       "postalCode": "96734",
@@ -49,7 +49,6 @@
       "name": "Personal Wellness",
       "keywords": [
         "yoga",
-        "skin care",
         "organization",
         "personal accountability",
         "personal wellness",
@@ -57,13 +56,19 @@
       ]
     },
     {
-      "name": "Cultural Awareness",
+      "name": "Sustainability",
       "keywords": [
-        "representation",
-        "respect",
+        "enviorment",
+        "climate change",
         "cultural exchange",
-        "sustainability"
+        "renewable engergy"
       ]
+    }
+    {
+      "name": "Data Representation",
+      "keywords": [
+        "data visualization",
+        "data analytics" 
     }
   ],
   "skills": [
@@ -74,10 +79,11 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
+        "JavaScript",
         "HTML",
         "CSS",
-        "Semantic UI"
+        "Semantic UI",
+        "Python"
       ]
     },
     {
@@ -89,7 +95,8 @@
         "Microsoft",
         "Windows",
         "Eclips",
-        "React in Meteor"
+        "React in Meteor",
+        "Jupyter Notebook"
       ]
     }
   ],
@@ -102,6 +109,11 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+         "Data Science",
+         "Computer Vision",
+         "Data Bases",
+         "Cognitive Science",
+         "Software Engineering I and II"
       ]
     },
     {
@@ -111,9 +123,55 @@
       "startDate": "2018",
       "endDate": "2020",
       "courses": [ "Through The University of Hawai'is KRS 332 Emergency Response class" ],
+    },
+    {
+      "institution": "Mars Water Extraction Research Project",
+      "studyType": "All female research group focused on water extraction on Mars for future missions. I focused on topography and weather. Presented twice at HESTEMP.",
+      "startDate": "2018",
+      "endDate": "2019",
+    },
+    {
+      "institution": "Blue Prints, College of Engineering at UHM",
+      "studyType": "Certification",
+      "area": "Heartsaver First Aid CPR AED",
+      "startDate": "2018",
+      "endDate": "2020",
+      "courses": [ "Through The University of Hawai'is KRS 332 Emergency Response class" ],
+    },
+    {
+      "institution": "American Heart Association",
+      "studyType": "A group of freshmen in the College of Engineering were given parameters and a budget to achieve a goal by solving an open-ended scenario.",
+      "startDate": "2015",
     }
   ],
   "work": [
+    {
+      "company": "Japanese Cultural Center: Resource Center",
+      "position": "Volunteer",
+      "website": "https://www.jcch.com/",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Historical Photos and Internee Databases"
+    },
+    {
+      "company": "Kahala Nui",
+      "position": "Volunteer",
+      "website": "http://www.kahalanui.com/",
+      "startDate": "2017-09-21",
+      "endDate": "Present",
+      "summary": "Activities Assistance: Art Class, “Penelope Project” Play, Bingo, Horse Racing, Spa Day",
+      "highlights": [
+        " "
+      ]
+    },
+    {
+      "company": " eCyber Mission and AEOP",
+      "position": "Volunteer",
+      "website": "neezcha.github.io/projects/dontpanicgroworganic",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Documentation and website management of the 7th-grade national winners grant project"
+    },
     {
       "company": "Tiki Tiki",
       "position": "Retail Sales",
@@ -122,18 +180,6 @@
       "endDate": "2015",
       "summary": "Commission sales on Hawaiian Jewelry, engravings, wood paddles, and Hawai'ian Weapons"
     },
-    {
-      "company": "Kahala Nui",
-      "position": "Volunteer",
-      "website": "http://www.kahalanui.com/",
-      "startDate": "2017-09-21",
-      "endDate": "Present",
-      "summary": "Art Class, weekly",
-      "highlights": [
-        "Set up, clean up, and assisting the residents",
-        "Other activities: Bingo, Horse Racing, Spa Day, Memory Support, Poker, etc. "
-      ]
-    }
   ],
   "awards": [
     {
