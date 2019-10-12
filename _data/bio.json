@@ -132,16 +132,18 @@
     },
     {
       "institution": "Blue Prints, College of Engineering at UHM",
-      "studyType": "Certification",
-      "area": "Heartsaver First Aid CPR AED",
-      "startDate": "2018",
-      "endDate": "2020",
-      "courses": [ "Through The University of Hawai'is KRS 332 Emergency Response class" ],
-    },
-    {
-      "institution": "American Heart Association",
       "studyType": "A group of freshmen in the College of Engineering were given parameters and a budget to achieve a goal by solving an open-ended scenario.",
       "startDate": "2015",
+    },
+    {
+      "institution": "College of Engineering High School Internship Program",
+      "studyType": "University of Hawaii Summer Internship Program for High School Students to gain experience working in engineering research labs, company on-site visits, skill-building workshops, culminating in a final presentation.",
+      "startDate": "2014",
+    },
+    {
+      "institution": "Certification in Workplace Environmental Responsibilites",
+      "studyType": "Assisted in beta testing online certification courses.",
+      "startDate": "2014"
     }
   ],
   "work": [
