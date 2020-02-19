@@ -9,9 +9,9 @@
     "summary": "I am studying at UHM for a BS in Computer Science, I expect to graduate Spring 2020. My goal is to create an inclusive and accessible technological world.",
     "location": {
       "address": "",
-      "postalCode": "96734",
+      "postalCode": "",
       "city": "Kailua",
-      "countryCode": "USA",
+      "countryCode": "",
       "region": "Hawaii"
     },
     "profiles": [
@@ -27,13 +27,13 @@
       },
       {
         "network": "instagram",
-        "username": "Neezcha",
-        "url": "http://instagram.com/neechachacha"
+        "username": "",
+        "url": ""
       },
       {
         "network": "facebook",
-        "username": "Neezcha Dinman",
-        "url": "https://www.facebook.com/profile.php?id=100007626198830"
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -77,25 +77,21 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "Python",
         "Java",
+        "Lisp",
         "JavaScript",
         "HTML",
         "CSS",
-        "Semantic UI",
-        "Python"
+        "C",
+        "Semantic UI"
       ]
     },
     {
       "name": "Proficient",
       "level": "",
       "keywords": [
-        "Exel Spread Sheet",
-        "Powerpoint",
-        "Microsoft",
-        "Windows",
-        "Eclips",
+        "Microsoft Office Suite",
         "React in Meteor",
         "Jupyter Notebook"
       ]
@@ -106,17 +102,43 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2015-09-01",
-      "endDate": "Present",
+      "startDate": "",
+      "endDate": "expected Spring 2020",
       "gpa": "",
       "courses": [
          "Data Science",
-         "Computer Vision",
+         "Mobile Development",
          "Data Bases",
          "Cognitive Science",
-         "Software Engineering I and II"
+         "Software Engineering I and II",
+         "Networking"
       ]
+    } ]
+  "Relevant Experience": [
+      {
+      "company": "Japanese Cultural Center: Resource Center",
+      "position": "Volunteer",
+      "website": "https://www.jcch.com/",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Historical Photos and Internee Databases"
     },
+    {
+      "institution": "Mars Water Extraction Research Project",
+      "studyType": "All female research group focused on water extraction on Mars for future missions. I focused on topography and weather. Presented twice at HESTEMP.",
+      "startDate": "2018",
+      "endDate": "2019",
+    },
+    {
+      "company": " eCyber Mission and AEOP",
+      "position": "Volunteer",
+      "website": "neezcha.github.io/projects/dontpanicgroworganic",
+      "startDate": "2017",
+      "endDate": "2018",
+      "summary": "Documentation and website management of the 7th-grade national winners grant project"
+    }
+  ],
+  "Background ": [
     {
       "institution": "American Heart Association",
       "studyType": "Certification",
@@ -126,10 +148,20 @@
       "courses": [ "Through The University of Hawai'is KRS 332 Emergency Response class" ],
     },
     {
-      "institution": "Mars Water Extraction Research Project",
-      "studyType": "All female research group focused on water extraction on Mars for future missions. I focused on topography and weather. Presented twice at HESTEMP.",
-      "startDate": "2018",
-      "endDate": "2019",
+      "company": "Kahala Nui",
+      "position": "Volunteer",
+      "website": "http://www.kahalanui.com/",
+      "startDate": "2017-09-21",
+      "endDate": "Present",
+      "summary": "Activities Assistance: Art Class, “Penelope Project” Play, Bingo, Horse Racing, Spa Day",
+    },
+    {
+      "company": "Tiki Tiki",
+      "position": "Retail Sales",
+      "website": "https://tikitiki.com/",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "Commission sales on Hawaiian Jewelry, engravings, wood paddles, and Hawai'ian Weapons"
     },
     {
       "institution": "Blue Prints, College of Engineering at UHM",
@@ -146,40 +178,6 @@
       "studyType": "Assisted in beta testing online certification courses.",
       "startDate": "2014"
     }
-  ],
-  "work": [
-    {
-      "company": "Japanese Cultural Center: Resource Center",
-      "position": "Volunteer",
-      "website": "https://www.jcch.com/",
-      "startDate": "2018",
-      "endDate": "Present",
-      "summary": "Historical Photos and Internee Databases"
-    },
-    {
-      "company": "Kahala Nui",
-      "position": "Volunteer",
-      "website": "http://www.kahalanui.com/",
-      "startDate": "2017-09-21",
-      "endDate": "Present",
-      "summary": "Activities Assistance: Art Class, “Penelope Project” Play, Bingo, Horse Racing, Spa Day",
-    },
-    {
-      "company": " eCyber Mission and AEOP",
-      "position": "Volunteer",
-      "website": "neezcha.github.io/projects/dontpanicgroworganic",
-      "startDate": "2017",
-      "endDate": "2018",
-      "summary": "Documentation and website management of the 7th-grade national winners grant project"
-    },
-    {
-      "company": "Tiki Tiki",
-      "position": "Retail Sales",
-      "website": "https://tikitiki.com/",
-      "startDate": "2014",
-      "endDate": "2015",
-      "summary": "Commission sales on Hawaiian Jewelry, engravings, wood paddles, and Hawai'ian Weapons"
-    },
   ],
   "awards": [
     {
