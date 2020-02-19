@@ -112,13 +112,19 @@
       "website": "https://www.jcch.com/",
       "startDate": "2018",
       "endDate": "Present",
-      "summary": "Reformat, update, and maintain databases. Created an Excel macro to streamline photo metadata entry. Upload documents, videos, and metadata. "
+      "highlights": [
+        "Reformat, update, and maintain databases.",
+        "Created an Excel macro to streamline photo metadata entry.",
+        "Upload documents, videos, and metadata. "]
     },
     {
       "company": "Mars Water Extraction Research Project",
       "position": "Reasercher", 
       "website": "neezcha.github.io/projects/MWE",
-      "summary": "Compiled research from academic papers into a decision matrix regarding locations of interest for future Mars water extraction missions. Focus on Mars’ topography and weather. Presented twice at HESTEMP NASA affiliated conference. ",
+      "highlights": [
+        "Compiled research from academic papers into a decision matrix regarding locations of interest for future Mars water extraction missions.",
+        "Focus on Mars’ topography and weather.",
+        "Presented twice at HESTEMP NASA affiliated conference."],
       "startDate": "2018",
       "endDate": "2019"
     },
@@ -128,7 +134,10 @@
       "website": "neezcha.github.io/projects/dontpanicgroworganic",
       "startDate": "2017",
       "endDate": "2018",
-      "summary": "Design and update a website documenting the team’s fulfillment of grant requirements. Media documentation of community outreach. Mentored group on budgeting and large scale planning. " 
+      "highlights": [
+        "Design and update a website documenting the team’s fulfillment of grant requirements.",
+        "Media documentation of community outreach.",
+        "Mentored group on budgeting and large scale planning."]
     }
   ],
   "volunteer": [
