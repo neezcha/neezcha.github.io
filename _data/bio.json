@@ -117,7 +117,8 @@
     {
       "company": "Mars Water Extraction Research Project",
       "position": "Reasercher", 
-      "summary": [ "A.", "B."] ,
+      "website": "neezcha.github.io/projects/MWE",
+      "summary": "Compiled research from academic papers into a decision matrix regarding locations of interest for future Mars water extraction missions. Focus on Mars’ topography and weather. Presented twice at HESTEMP NASA affiliated conference. ",
       "startDate": "2018",
       "endDate": "2019"
     },
@@ -127,7 +128,7 @@
       "website": "neezcha.github.io/projects/dontpanicgroworganic",
       "startDate": "2017",
       "endDate": "2018",
-      "summary": "Documentation and website management of the 7th-grade national winners grant project"
+      "summary": "Design and update a website documenting the team’s fulfillment of grant requirements. Media documentation of community outreach. Mentored group on budgeting and large scale planning. " 
     }
   ],
   "volunteer": [
