@@ -6,14 +6,17 @@
     <h3 class="ui left aligned header no-bottom">Background</h3>
   </div>
 
-  <div class="fourteen wide column no-bottom">
-    {% for entry in site.data.bio.work %}
+ <div class="fourteen wide column no-bottom">
+    {% for entry in site.data.bio.volunteer %}
 
     <div class="ui grid">
       <div class="twelve wide column no-bottom">
-        <p class="ui no-bottom"><b>{{ entry.position }}, {{ entry.company }}</b></p>
-        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://"
-          }}</a></p>
+        <p class="ui no-bottom">
+          <b>
+            {{ entry.position }}{% if entry.organization and (entry.organization != "") %}, {{ entry.organization }}{% endif %}
+          </b>
+        </p>
+        <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
         <p class="ui no-bottom">{{ entry.summary }}</p>
         {% if entry.highlights %}
         <ul style="margin: 0px;">
@@ -28,7 +31,7 @@
           {% if entry.startDate %}
           {{ entry.startDate | slice: 0,4 }}
           {% endif %}
-          {% if entry.startDate and entry.endDate %}
+          {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
           -
           {% endif %}
           {% if entry.endDate %}
