@@ -131,14 +131,14 @@
   ],
   "background": [
     {
-      "company": "American Heart Association",
+      "organization ": "American Heart Association",
       "position": "Certification",
       "startDate": "2018",
       "endDate": "2020",
       "summary": [ "Heartsaver First Aid CPR AED through The University of Hawai'is KRS 332 Emergency Response class" ],
     },
     {
-      "company": "Kahala Nui",
+      "organization ": "Kahala Nui",
       "position": "Volunteer",
       "website": "http://www.kahalanui.com/",
       "startDate": "2017-09-21",
@@ -146,7 +146,7 @@
       "summary": "Activities Assistance: Art Class, “Penelope Project” Play, Bingo, Horse Racing, Spa Day",
     },
     {
-      "company": "Tiki Tiki",
+      "organization ": "Tiki Tiki",
       "position": "Retail Sales",
       "website": "https://tikitiki.com/",
       "startDate": "2014",
@@ -154,17 +154,17 @@
       "summary": "Commission sales on Hawaiian Jewelry, engravings, wood paddles, and Hawai'ian Weapons"
     },
     {
-      "company": "Blue Prints, College of Engineering at UHM",
+      "organization ": "Blue Prints, College of Engineering at UHM",
       "summary": "A group of freshmen in the College of Engineering were given parameters and a budget to achieve a goal by solving an open-ended scenario.",
       "startDate": "2015",
     },
     {
-      "company": "College of Engineering High School Internship Program",
+      "organization ": "College of Engineering High School Internship Program",
       "summary": "University of Hawaii Summer Internship Program for High School Students to gain experience working in engineering research labs, company on-site visits, skill-building workshops, culminating in a final presentation.",
       "startDate": "2014",
     },
     {
-      "company": "Certification in Workplace Environmental Responsibilites",
+      "organization ": "Certification in Workplace Environmental Responsibilites",
       "summary": "Assisted in beta testing online certification courses.",
       "startDate": "2014"
     }
