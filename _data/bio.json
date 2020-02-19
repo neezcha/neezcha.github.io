@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "neezcha_dinman",
         "url": "http://linkedin.com/in/neezcha-dinman-416752146/"
-      },
-      {
-        "network": "instagram",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "facebook",
-        "username": "",
-        "url": ""
       }
     ]
   },
@@ -115,7 +105,7 @@
       ]
     } 
   ],
-  "Relevant Experience": [
+  "Work": [
       {
       "company": "Japanese Cultural Center: Resource Center",
       "position": "Volunteer",
@@ -139,7 +129,7 @@
       "summary": "Documentation and website management of the 7th-grade national winners grant project"
     }
   ],
-  "Background ": [
+  "Volenteer ": [
     {
       "institution": "American Heart Association",
       "studyType": "Certification",
