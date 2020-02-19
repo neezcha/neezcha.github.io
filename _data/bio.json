@@ -105,7 +105,7 @@
       ]
     } 
   ],
-  "Work": [
+  "work": [
       {
       "company": "Japanese Cultural Center: Resource Center",
       "position": "Volunteer",
@@ -129,7 +129,7 @@
       "summary": "Documentation and website management of the 7th-grade national winners grant project"
     }
   ],
-  "Volenteer ": [
+  "volenteer ": [
     {
       "institution": "American Heart Association",
       "studyType": "Certification",
