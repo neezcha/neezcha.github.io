@@ -117,10 +117,9 @@
     {
       "company": "Mars Water Extraction Research Project",
       "position": "Reasercher", 
-      "summary": "All female research group focused on water extraction on Mars for future missions. I focused on topography and weather. Presented twice at HESTEMP.",
+      "summary": [ "A.", "B."] ,
       "startDate": "2018",
-      "endDate": "2019",
-      "highlight": [ "thingA", "thingB" ]
+      "endDate": "2019"
     },
     {
       "company": " eCyber Mission and AEOP",
@@ -128,8 +127,7 @@
       "website": "neezcha.github.io/projects/dontpanicgroworganic",
       "startDate": "2017",
       "endDate": "2018",
-      "summary": "Documentation and website management of the 7th-grade national winners grant project",
-      "highlight": "thing2"
+      "summary": "Documentation and website management of the 7th-grade national winners grant project"
     }
   ],
   "volunteer": [
