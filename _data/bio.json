@@ -93,7 +93,7 @@
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "",
-      "endDate": "expected Spring 2020",
+      "endDate": "2020",
       "gpa": "",
       "courses": [
          "Data Science",
@@ -105,7 +105,7 @@
       ]
     } 
   ],
-  "experience ": [
+  "experience": [
       {
       "company": "Japanese Cultural Center: Resource Center",
       "position": "Volunteer",
@@ -116,7 +116,7 @@
     },
     {
       "compay": "Mars Water Extraction Research Project",
-      "studyType": "All female research group focused on water extraction on Mars for future missions. I focused on topography and weather. Presented twice at HESTEMP.",
+      "summary": "All female research group focused on water extraction on Mars for future missions. I focused on topography and weather. Presented twice at HESTEMP.",
       "startDate": "2018",
       "endDate": "2019",
     },
@@ -129,14 +129,13 @@
       "summary": "Documentation and website management of the 7th-grade national winners grant project"
     }
   ],
-  "background ": [
+  "background": [
     {
-      "institution": "American Heart Association",
-      "studyType": "Certification",
-      "area": "Heartsaver First Aid CPR AED",
+      "company": "American Heart Association",
+      "position": "Certification",
       "startDate": "2018",
       "endDate": "2020",
-      "courses": [ "Through The University of Hawai'is KRS 332 Emergency Response class" ],
+      "summary": [ "Heartsaver First Aid CPR AED through The University of Hawai'is KRS 332 Emergency Response class" ],
     },
     {
       "company": "Kahala Nui",
@@ -155,18 +154,18 @@
       "summary": "Commission sales on Hawaiian Jewelry, engravings, wood paddles, and Hawai'ian Weapons"
     },
     {
-      "institution": "Blue Prints, College of Engineering at UHM",
-      "studyType": "A group of freshmen in the College of Engineering were given parameters and a budget to achieve a goal by solving an open-ended scenario.",
+      "company": "Blue Prints, College of Engineering at UHM",
+      "summary": "A group of freshmen in the College of Engineering were given parameters and a budget to achieve a goal by solving an open-ended scenario.",
       "startDate": "2015",
     },
     {
-      "institution": "College of Engineering High School Internship Program",
-      "studyType": "University of Hawaii Summer Internship Program for High School Students to gain experience working in engineering research labs, company on-site visits, skill-building workshops, culminating in a final presentation.",
+      "company": "College of Engineering High School Internship Program",
+      "summary": "University of Hawaii Summer Internship Program for High School Students to gain experience working in engineering research labs, company on-site visits, skill-building workshops, culminating in a final presentation.",
       "startDate": "2014",
     },
     {
-      "institution": "Certification in Workplace Environmental Responsibilites",
-      "studyType": "Assisted in beta testing online certification courses.",
+      "company": "Certification in Workplace Environmental Responsibilites",
+      "summary": "Assisted in beta testing online certification courses.",
       "startDate": "2014"
     }
   ],
