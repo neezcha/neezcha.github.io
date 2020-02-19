@@ -105,7 +105,7 @@
       ]
     } 
   ],
-  "work": [
+  "experience ": [
       {
       "company": "Japanese Cultural Center: Resource Center",
       "position": "Volunteer",
@@ -115,7 +115,7 @@
       "summary": "Historical Photos and Internee Databases"
     },
     {
-      "institution": "Mars Water Extraction Research Project",
+      "compay": "Mars Water Extraction Research Project",
       "studyType": "All female research group focused on water extraction on Mars for future missions. I focused on topography and weather. Presented twice at HESTEMP.",
       "startDate": "2018",
       "endDate": "2019",
@@ -129,7 +129,7 @@
       "summary": "Documentation and website management of the 7th-grade national winners grant project"
     }
   ],
-  "volenteer ": [
+  "background ": [
     {
       "institution": "American Heart Association",
       "studyType": "Certification",
