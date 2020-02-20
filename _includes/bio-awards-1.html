@@ -14,7 +14,12 @@
         <p class="ui no-bottom">
           <b>{{ entry.title }}</b>, {{ entry.awarder }}{% if entry.date %}, {{ entry.date }}{% endif %}
         </p>
-        <p class="ui">{{ entry.summary }}</p>
+        <!-- <p class="ui">{{ entry.summary }}</p> -->
+        <ul style="margin: 0px; list-style: none;">
+          {% for summarys in entry.summary %}
+          <li>{{ summarys }}</li>
+          {% endfor %}
+        </ul>
       </div>
     </div>
 
