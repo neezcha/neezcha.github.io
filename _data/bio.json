@@ -145,36 +145,39 @@
       "position": "Certification, American Heart Association",
       "startDate": "2018",
       "endDate": "2020",
-      "summary": "Heartsaver First Aid CPR AED through The University of Hawai'is KRS 332 Emergency Response class" ,
-      "highlights": ["a.","b"]
+      "highlights": ["Heartsaver First Aid CPR AED through The University of Hawai'is KRS 332 Emergency Response class"]
     },
     {
       "position": "Volunteer, Kahala Nui",
       "website": "http://www.kahalanui.com/",
       "startDate": "2017-09-21",
       "endDate": "2019",
-      "summary": "Activities Assistance: Art Class, “Penelope Project” Play, Bingo, Horse Racing, Spa Day"
+      "highlights": ["Activities Assistance: Art Class, “Penelope Project” Play, Bingo, Horse Racing, Spa Day"]
     },
     {
       "position": "Retail Sales, Tiki Tiki",
       "website": "https://tikitiki.com/",
       "startDate": "2014",
       "endDate": "2015",
-      "summary": "Commission sales on Hawaiian Jewelry, engravings, wood paddles, and Hawai'ian Weapons"
+      "highlights": ["Commission sales on Hawaiian Jewelry, engravings, wood paddles, and Hawai'ian Weapons"]
     },
     {
       "position": "Blue Prints, College of Engineering at UHM",
-      "summary": "A group of freshmen in the College of Engineering were given parameters and a budget to achieve a goal by solving an open-ended scenario.",
+      "highlights": ["Developed a solution based on given parameters and budget to problem solve an open-ended scenario; to transport a package one-floor below without touching the lower floor.
+"],
       "startDate": "2015"
     },
     {
       "position": "College of Engineering High School Internship Program",
-      "summary": "University of Hawaii Summer Internship Program for High School Students to gain experience working in engineering research labs, company on-site visits, skill-building workshops, culminating in a final presentation.",
+      "highlights": [
+                    "Assisted in the engineering asphalt research lab at The University of Hawaii.",
+                    "Engaged in skill-building workshops, and specialized lectures with guest speakers.",
+                    "Presented research process and findings at culminating symposium."],
       "startDate": "2014"
     },
     {
       "position": "Certification in Workplace Environmental Responsibilites",
-      "summary": "Assisted in beta testing online certification courses.",
+      "highlights": [ "Assisted in beta testing online certification courses." ],
       "startDate": "2014"
     }
   ],
