@@ -20,4 +20,4 @@ ICS 414 Software Engineering 2 is a project-based class. The goal is to collabor
 <img class="ui large left floated rounded image" src="../images/UI.png"> This calendaring system is programmed in Python using Jupyter Notebooks and the `tkinter` library to create the vintage look. To the left is an empty version of our user interface. Final versions of this project offered reoccurrence options and auto-filled the time and date selection based on the user’s computer’s information. The program also checked for valid entries, such as the save file name including a .ics modifier and validating times. For example, ff an events end-time was before the start-time an informative error explaining what is wrong would appear at the bottom of the window. 
 
 
-[View Project](https://github.com/ics414-teamorzo/TeamOrzo)
+[View Project Github](https://github.com/ics414-teamorzo/TeamOrzo)
