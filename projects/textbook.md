@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/textbook.jpg
+image: images/textbook.png
 title: Textbook Reader  
 permalink: projects/textbook
 # All dates must be YYYY-MM-DD format!
