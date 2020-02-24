@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/months.jpg
+image: images/months.png
 title: Calandaring Interface 
 permalink: projects/calendar 
 # All dates must be YYYY-MM-DD format!
