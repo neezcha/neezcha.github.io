@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/months.png
-title: Calandaring Interface 
+title: Calendaring Interface 
 permalink: projects/calendar 
 # All dates must be YYYY-MM-DD format!
 date: 2019-08-08
