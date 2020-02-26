@@ -16,9 +16,9 @@ labels:
 summary: Every Monday I volunteer at the Japanese Cultural Center of Hawai’i. There I work on JCCH’s databases and other technological projects that pop up. 
 ---
 
-Volunteering at the *Japanese Cultural Center of Hawai’i* [(JCCH)](https://www.jcch.com/) has been a real treat. Everyone is friendly and kind, and I have been able to apply the skill I have learned as a Computer Science student to make help out my community. JCCH has a few different databases that often relate to each other. When I first arrived, I spent some time getting to know the type of information stored, how it is used, and how relates to other information within the same database and between other databases. 
+Volunteering at the *Japanese Cultural Center of Hawai’i* ([JCCH](https://www.jcch.com/)) has been a real treat. Everyone is friendly and kind, and I have been able to apply the skill I have learned as a Computer Science student to help my community. JCCH has a few different databases that often relate to each other. When I first arrived, I spent some time getting to know the type of information stored, how it is used, and how relates to other information within the same database and between other databases. 
 
-###Restructure the way data is stored 
+### Restructure the way data is stored 
 
 Understanding the type of information stored in JCCH’s databases was extremely important to take into account when structuring how the information is stored. When keeping tracking of individuals journeys through key points in history there is often inconsistent documentation available, and new information may show up much later. For example, tracking the moves a person made from one location to another, even when they are part of a group moving on a boat, there are still individual differences. A person or a family may have stayed at an intermediary port instead of continuing their journey with the rest of the group. To keep these unique experiences preserved JCCH works hard gathering information and organizing it into a clear and accessible format. 
 
