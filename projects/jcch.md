@@ -29,3 +29,5 @@ Above is an example of how I recommended restructuring the way information is st
 #### Excel Macro
 
 The first project I worked at JCCH was creating a macro using Excel VBA for one of the databases. This macro was designed to link the photo name to the photo location, when clicked the photo would open. It also linked the photo number to the photo folder. The photos were stored across different folders with varying number of formatting 
+
+[View JCCH's website.](https://www.jcch.com/)
