@@ -26,7 +26,7 @@ Understanding the type of information stored in JCCH’s databases was extremely
 
 Above is an example of how I recommended restructuring the way information is stored in the excel sheet. Rows 1-4 are an example of how the information was stored before. This format caused problems when new information was discovered. If a new intermittent move is discovered, additional columns would be inserted and threw off the `moveNum` column header count correlation. Rows 6-11 are how I recommended to store the information. It is much clearer how many moves a person has taken and the relevant information regarding those moves. Person nameA has a gap in information from move `locC` to `locD`, if the transition is found it will be easy to add a new row without throwing off formatting for other people listed. 
 
-#### Excel Macro
+### Excel Macro
 
 The first project I worked at JCCH was creating a macro using Excel VBA for one of the databases. This macro was designed to link the photo name to the photo location, when clicked the photo would open. It also linked the photo number to the photo folder. The photos were stored across different folders with varying number of formatting 
 
