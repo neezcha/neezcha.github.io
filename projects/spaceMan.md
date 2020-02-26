@@ -11,7 +11,7 @@ labels:
   - Eclips
   - Game
   - ICS 111
-summary: A game my groupd and I developed for ICS 111.
+summary: A cute little game developed as a group for ICS 111. 
 ---
 
 <img class="ui tiny left circular floated image" src="../images/SM 3.png">
@@ -22,7 +22,8 @@ In the game you are an astronaut in zero gravity, various problems pop up and it
 
 <img class="ui tiny left circular floated image" src="../images/SM 4.png">
 
-I was in charge of the astronaut’s movements, using a state machine for the different images of the space explorer as they moved around the scene. I also worked on the menu, background sound, and background image. My teammates focused on the tools, the malfunctions, and together we worked on these three components interactions. It was a simple but cute game. During this project I learned how to incorporate and use code written by a team.
+I was in charge of the astronaut’s movements, using a state machine for the different images of the space explorer as they moved around the scene. I also worked on the menu, background sound, and background image. My teammates focused on the tools, the malfunctions, and together we worked on these three components interactions. It was a simple but cute game. This was one of my first projects working with multiple people and incorperating our code to activley work together. 
+
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/SM 0.png">
