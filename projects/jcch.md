@@ -24,7 +24,7 @@ Understanding the type of information stored in JCCH’s databases was extremely
 
 <img class="ui fluid rounded image" src="../images/excelMoves.png"> 
 
-Above is an example of how I recommended restructuring the way information is stored in the excel sheet. Rows 1-4 are an example of how the information was stored before. This format caused problems when new information was discovered. If a new intermittent move is discovered, additional columns would be inserted and threw off the `moveNum` column header count correlation. Rows 6-11 are how I recommended to store the information. It is much clearer how many moves a person has taken and the relevant information regarding those moves. Person nameA has a gap in information from move `locC` to `locD`, if the transition is found it will be easy to add a new row without throwing off formatting for other people listed. 
+Above is an example of how I recommended restructuring the way information is stored in the excel sheet. Rows 1-4 are an example of how the information was stored before. This format caused problems when new information was discovered. If a new intermittent move is discovered, additional columns would be inserted and threw off the `moveNum` column header count correlation. **Rows 6-11 are how I recommended to store the information.** It is much clearer how many moves a person has taken and the relevant information regarding those moves. Person nameA has a gap in information from move `locC` to `locD`, if the transition is found it will be easy to add a new row without throwing off formatting for other people listed. 
 
 ### Excel Macro
 
