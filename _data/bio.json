@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Neezcha Dinman",
-    "label": "Student",
+    "label": "Graduate",
     "picture": "../images/square_head.jpg",
     "email": "neezcha@hawaii.edu",
     "phone": "808-554-6080",
     "website": "https://neezcha.github.io",
-    "summary": "I am studying at UHM for a BS in Computer Science, I expect to graduate Spring 2020. My goal is to create an inclusive and accessible technological world.",
+    "summary": "Graduated Spring 2020 from UHM with a BS in Computer Science. My goal is to create an inclusive and accessible technological world.",
     "location": {
       "address": "",
       "postalCode": "",
