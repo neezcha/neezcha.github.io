@@ -5,7 +5,7 @@ image: images/JCCH logo_high res.jpg
 title: JCCH Database 
 permalink: projects/jcch
 # All dates must be YYYY-MM-DD format!
-date: 2018-10-22
+date: 2020-05-01
 labels:
   - Japanese Cultural Center of Hawaii
   - Excel 
@@ -13,10 +13,10 @@ labels:
   - Excel Macro
   - Database 
 
-summary: Every Monday I volunteer at the Japanese Cultural Center of Hawai’i. There I work on JCCH’s databases and other technological projects that pop up. 
+summary: I volunteered at the Japanese Cultral Center working on their databases and other technological projects that popu up.
 ---
 
-Volunteering at the *Japanese Cultural Center of Hawai’i* ([JCCH](https://www.jcch.com/)) has been a real treat. Everyone is friendly and kind, and I have been able to apply the skill I have learned as a Computer Science student to help my community. JCCH has a few different databases that often relate to each other. When I first arrived, I spent some time getting to know the type of information stored, how it is used, and how relates to other information within the same database and between other databases. 
+<img class="ui medium right circular floated image" src="../images/JCCH logo_high res.jpg"> Volunteering at the *Japanese Cultural Center of Hawai’i* ([JCCH](https://www.jcch.com/)) was a real treat. Everyone is friendly and kind, and I was been able to apply the skill I have learned as a Computer Science student to help my community. JCCH has a few different databases that often relate to each other (a relational database you could say). When I first arrived, I spent some time getting to know the type of information stored, how it is used, and how it relates to other information within the same database and between other databases. 
 
 ### Restructure the way data is stored 
 
@@ -29,5 +29,9 @@ Above is an example of how I recommended restructuring the way information is st
 ### Excel Macro
 
 The first project I worked at JCCH was creating a macro using Excel VBA for one of the databases. This macro was designed to link the photo name to the photo location, when clicked the photo would open. It also linked the photo number to the photo folder. The photos were stored across different folders with varying number of formatting 
+
+### Miscellaneous Technology
+
+The Japanese Cultral Center of Hawai'i works hard to provide accessable information to the public and help reasearchers find records fast. Durring my time volunteering there it felt like they were alway undertaking a new task and striving to make things run smoother for their staff, volunteers, patrons, and the community. Natrually, this mean miscellaneous tasks would pop up and when they were technologically related I was there to help. This includes making a powerpoint scrolling through a list of names for those interned in Hawai'i durring WWII, and giving advice when planning for future projects or connecting two databases. 
 
 [View JCCH's website.](https://www.jcch.com/)
