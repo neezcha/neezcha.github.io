@@ -16,7 +16,7 @@ labels:
 summary: I volunteered at the Japanese Cultral Center working on their databases and other technological projects that popu up.
 ---
 
-<img class="ui medium right circular floated image" src="../images/JCCH logo_high res.jpg"> Volunteering at the *Japanese Cultural Center of Hawai’i* ([JCCH](https://www.jcch.com/)) was a real treat. Everyone is friendly and kind, and I was been able to apply the skill I have learned as a Computer Science student to help my community. JCCH has a few different databases that often relate to each other (a relational database you could say). When I first arrived, I spent some time getting to know the type of information stored, how it is used, and how it relates to other information within the same database and between other databases. 
+<img class="ui medium right circular floated image" src="../images/JCCH logo_high res.jpg"> Volunteering at the *Japanese Cultural Center of Hawai’i* ([JCCH](https://www.jcch.com/)) was a real treat. Everyone is friendly and kind, and I was able to apply the skill I have learned as a Computer Science student to help my community. JCCH has a few different databases that often relate to each other (a relational database you could say). When I first arrived, I spent some time getting to know the type of information stored, how it is used, and how it relates to other information within the same database and between other databases. 
 
 ### Restructure the way data is stored 
 
