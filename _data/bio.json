@@ -3,7 +3,7 @@
     "name": "Neezcha Dinman",
     "label": "Graduate",
     "picture": "../images/square_head.jpg",
-    "email": "neezcha@hawaii.edu",
+    "email": "neezchad@gmail.com",
     "phone": "808-554-6080",
     "website": "https://neezcha.github.io",
     "summary": "Graduated Spring 2020 from UHM with a BS in Computer Science. My goal is to create an inclusive and accessible technological world.",
@@ -30,28 +30,13 @@
   "interests": [
     {
       "name": "Astronomy",
-      "keywords": [
-        "space",
-        "astronomy"
-      ]
-    },
-    {
-      "name": "Personal Wellness",
-      "keywords": [
-        "yoga",
-        "organization",
-        "personal accountability",
-        "personal wellness",
-        "mindfullness"
-      ]
     },
     {
       "name": "Sustainability",
       "keywords": [
         "enviorment",
         "climate change",
-        "cultural exchange",
-        "renewable engergy"
+        "cultural exchange"
       ]
     },
     {
@@ -90,7 +75,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science (Graduated Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "",
       "endDate": "2020",
@@ -111,10 +96,10 @@
       "position": "Volunteer",
       "website": "jcch.com",
       "startDate": "2018",
-      "endDate": "Present",
+      "endDate": "2020",
       "highlights": [
         "Reformat, update, and maintain databases.",
-        "Created an Excel macro to streamline photo metadata entry.",
+        "Created an Excel macro to streamline metadata entry.",
         "Upload documents, videos, and metadata. "]
     },
     {
@@ -124,7 +109,7 @@
       "highlights": [
         "Compiled research from academic papers into a decision matrix regarding locations of interest for future Mars water extraction missions.",
         "Focus on Mars’ topography and weather.",
-        "Presented twice at HESTEMP NASA affiliated conference."],
+        "Presented twice at HESTEMP, a NASA affiliated conference."],
       "startDate": "2018",
       "endDate": "2019"
     },
@@ -137,7 +122,7 @@
       "highlights": [
         "Design and update a website documenting the team’s fulfillment of grant requirements.",
         "Media documentation of community outreach.",
-        "Mentored group on budgeting and large scale planning."]
+        "Mentored the group on budgeting and large scale planning."]
     }
   ],
   "volunteer": [
@@ -166,7 +151,7 @@
       "startDate": "2015"
     },
     {
-      "position": "College of Engineering High School Internship Program",
+      "position": "High School Internship Program, College of Engineering at UHM",
       "highlights": [
                     "Assisted in the engineering asphalt research lab at The University of Hawaii.",
                     "Engaged in skill-building workshops, and specialized lectures with guest speakers.",
@@ -190,7 +175,7 @@
       "title": "Service Learning Award",
       "date": "2016 - Present",
       "awarder": "Manoa Service Award",
-      "summary": "Scholarship for studying as a full time student during the regular academic semester while regularly volunteering"
+      "summary": "Scholarship for studying as a full-time student during the regular academic semester while regularly volunteering"
     },
     {
       "title": "American Society for Quality (ASQ)",
@@ -206,3 +191,4 @@
     }
   ]
 }
+
