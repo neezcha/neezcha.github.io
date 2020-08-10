@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/JCCH logo_high res.jpg
 title: JCCH Database 
-permalink: projects/jcch
+permalink: projects/JCCH
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-01
 labels:
@@ -32,6 +32,9 @@ The first project I worked at JCCH was creating a macro using Excel VBA for one 
 
 ### Miscellaneous Technology
 
-The Japanese Cultral Center of Hawai'i works hard to provide accessable information to the public and help reasearchers find records fast. Durring my time volunteering there it felt like they were alway undertaking a new task and striving to make things run smoother for their staff, volunteers, patrons, and the community. Natrually, this mean miscellaneous tasks would pop up and when they were technologically related I was there to help. This includes making a powerpoint scrolling through a list of names for those interned in Hawai'i durring WWII, and giving advice when planning for future projects or connecting two databases. 
+The Japanese Cultural Center of Hawai'i works hard to provide accessible information to the public and help researchers find records fast. During my time volunteering there it felt like they were always undertaking a new task and striving to make things run smoother for their staff, volunteers, patrons, and the community. Naturally, this means miscellaneous tasks would pop up, and when they were technologically related I was there to help. This includes making a PowerPoint scrolling through a list of names for those interned in Hawai'i during WWII and giving advice when planning for future projects or connecting two databases. 
 
 [View JCCH's website.](https://www.jcch.com/)
+
+
+
