@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/textbook.png
+image: images/phone.png
 title: Fridge Friend
 permalink: projects/fridgefriend
 # All dates must be YYYY-MM-DD format!
