@@ -20,7 +20,7 @@ For my final project in ICS 415 Intro to Programming for the Web, I designed a [
 <img class="ui medium right floated rounded image" src="../images/homeTextbook.png">
 A surprising amount of time was spent on the fluidity and design of the side menu. The main menu, far left, would always be visible and submenus would toggle to display while shifting the content of the page over so that the pdf will always be centered. Below is an example of the JavaScript code I used to create the sidebar toggle functionality. 
 
-```
+```js
 $(function() {
 	$('#close').on('click', function() {
 		$('.active').toggleClass('active');
@@ -29,8 +29,10 @@ $(function() {
 
 
 $(function() {
-	$('#indexSidebar).on('click', function() { //link on main sidebar
-		if('!#subIndex.active’){ //vertical-nav index
+	//link on main sidebar
+	$('#indexSidebar).on('click', function() { 
+		//vertical-nav index
+		if('!#subIndex.active’){ 
 			$('.active').toggleClass('active');
 			$('#subIndex, #content').toggleClass('active');
 		} else {
