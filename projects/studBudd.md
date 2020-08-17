@@ -42,7 +42,7 @@ This was one of the largest projects I have worked on from the ground up and I h
 </div>
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/MS3-LP.png">
-  <img class="ui image" src="https://raw.githubusercontent.com/studbudd/studbudd.github.io/master/doc/MS3-SIGNUP.png">
   <img class="ui image" src="https://raw.githubusercontent.com/studbudd/studbudd.github.io/master/doc/MS3-CLASS.png">
   <img class="ui image" src="../images/MS3-INSTRUCTIONS (2).png">
+  <img class="ui image" src="https://raw.githubusercontent.com/studbudd/studbudd.github.io/master/doc/MS3-SIGNUP.png"> 
 </div>
