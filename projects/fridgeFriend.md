@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/phone.png
-title: Fridge Friend
+title:  Fridge Friend
 permalink: projects/fridgefriend
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-12
