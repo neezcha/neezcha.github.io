@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/HF_pie.png
-Title: Home Finances  
+title: Home Finances  
 permalink: projects/homeFinances
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-17
