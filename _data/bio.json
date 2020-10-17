@@ -92,6 +92,15 @@
   ],
   "work": [
       {
+      "company": "Oahu MPO",
+      "position": "Intern",
+      "website": "oahumpo.org",
+      "startDate": "2020",
+      "endDate": "Current",
+      "highlights": [
+        "Create a public-facing dashboard.",
+        "Visualize data in comprehensive ways"]
+    },
       "company": "Japanese Cultural Center: Resource Center",
       "position": "Volunteer",
       "website": "jcch.com",
