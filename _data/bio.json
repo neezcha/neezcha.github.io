@@ -59,7 +59,8 @@
         "HTML",
         "CSS",
         "C",
-        "Semantic UI"
+        "Semantic UI",
+        "Agile Development"
       ]
     },
     {
@@ -98,8 +99,9 @@
       "startDate": "2020",
       "endDate": " ",
       "highlights": [
-        "Create a public-facing dashboard.",
-        "Visualize data in comprehensive ways"]
+        "Create a mockup for a public-facing dashboard.",
+        "Visualize data in comprehensive ways.",
+        "JavaScript, HTML, CSS, Charts.js, Leaflet.js, Bootstrap, ARC GIS."]
     },
     {
       "company": "Japanese Cultural Center: Resource Center",
