@@ -15,7 +15,7 @@ summary: Public-facing dashboard to provide updated information on O’ahu MPO�
 ---
 
 ## O’ahu MPO’s ORTP Dashboard
-The O’ahu Metropolitan Planning Organization (**“Oahu MPO”**), is responsible for coordinating transportation planning on O’ahu. They focus on the development of plans and programs to produce an integrated inter-modal surface transportation system. Oahu MPO does not construct projects or implement programs. To learn more about them you can visit their website [here]{https://www.oahumpo.org/}. 
+The O’ahu Metropolitan Planning Organization (**“Oahu MPO”**), is responsible for coordinating transportation planning on O’ahu. They focus on the development of plans and programs to produce an integrated inter-modal surface transportation system. Oahu MPO does not construct projects or implement programs. To learn more about them you can visit their website [here](https://www.oahumpo.org/). 
 
 My primary duties at Oahu MPO were to create a *public-facing dashboard* to provide updated information on Oahu MPO’s data and regional transportation decision-making process. The project was never launched due to a change in priorities during my internship. During my time I rendered a few mockup pages. 
 
@@ -38,6 +38,7 @@ Two different JavaScript libraries were used to visualize the two different type
 *Leaflet.js* is an open-source JS library designed to build maps. Geographic data (of O’ahu’s roads) was stored as .shape files and converted to .geojson files, then read with JS `async functions`. Leaflet.js was used because the planners at Oahu MPO also used Leaflets for the maps they render in R. 
 
 Leaflet offers many customizations features for mapping. For example, the code sample bellow was used to create a legend based on the data displayed in the map. The HTML code to create color blocks and text displayed on the map were created in this JS code. 
+
 ```var legend = L.control({position:'bottomleft'});
     legend.onAdd = function(myMap){
         var div = L.DomUtil.create('div', 'legend');
@@ -57,6 +58,7 @@ Leaflet offers many customizations features for mapping. For example, the code s
 *Charts.js* is a JS library for data visualization via 8 different char types, and chart enhancements; such as shaded areas under a line and mixing chart types. 
  
 Bellow, is the JS function `changeGraph` used to read the HTML elements value and change the data displayed on the charts.js graph. Function `reemoveAllData` and `addNewData` are both custom made functions to interact with charts.js. 
+
 ``` function changeGraph(){
     let roads = selectRoad.options[selectRoad.selectedIndex].value;
     let measures = selectMeasure.options[selectMeasure.selectedIndex].value;
@@ -85,8 +87,7 @@ The first part of my internship focused on the dashboard described above. The se
 
 In Arc GIS I helped with the existing Story Maps by editing and updating them, as well as creating shortened versions for future presentations. 
 
-Below is a page from the Dashboard, added later in my internship. This page used the HTML tag `iframe` to embed a story map related to the page’s content. 
 
 <img class="ui image rounded" src="../images/mpo_page_lrtp.jpg">
 
-
+Above is a page from the Dashboard, added later in my internship. This page used the HTML tag `iframe` to embed a story map related to the page’s content. 
