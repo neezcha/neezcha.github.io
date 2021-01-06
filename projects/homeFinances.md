@@ -39,5 +39,5 @@ On the right is the pie chart representing the proportional amount paid per paye
 
 <img class="ui image" src="../images/hf_line_payees_censored.jpg"> 
 
-On the right is the line charts, plotting the amount paid to each payee over time. Each year is split into tabs. The names of each payee has been blurred per request. 
+Above is the line charts, plotting the amount paid to each payee over time. Each year is split into tabs. The names of each payee has been blurred per request. 
 
