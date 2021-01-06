@@ -75,7 +75,7 @@ The dashboard is a combining the page layouts from Bootstrap Studio, the charts 
 <img class="ui image rounded" src="../images/mpo_page_ttr.jpg">
 
 Bootstrap Studio came with many prebuilt features that speed the creation of pages up. For example, the social media icons at the bottom required little editing to seamlessly add to the page footer. However, designing more unique page functionalities was a battle against these pre-built elements. The drop-down menu below the header was particularly difficult to implement. Other elements built by Bootstrap studio would not recognize or would reformat when the drop-down menu was selected. The menu appears after selecting the top-right icon, each tab (Transportation, Land and People, Economy, etc.) has its own color that changes the options and color of the page selection area, and the rest of the page is greyed out, so if clicked the tab will collapse. 
-<img class="ui image rounded" src="../images/mpo_menu and footer.png">
+<img class="ui image rounded" src="../images/mpo_menu and footer.PNG">
 
 
 ---
@@ -83,7 +83,7 @@ Bootstrap Studio came with many prebuilt features that speed the creation of pag
 ### Arc GIS Story Maps 
 The first part of my internship focused on the dashboard described above. The second part involved Arc GIS Stroy Maps. Arc GIS is a collection of softwares focused on geographic mapping. Arc GIS Story Maps is the online platform used to display and share maps created with the Arc GIS Pro mapping software. 
 
-In Arc GIS I helped with the existing Story Maps by editing and updating them, as well as creating a shortened versions for future presentations. 
+In Arc GIS I helped with the existing Story Maps by editing and updating them, as well as creating shortened versions for future presentations. 
 
 Below is a page from the Dashboard, added later in my internship. This page used the HTML tag `iframe` to embed a story map related to the page’s content. 
 
