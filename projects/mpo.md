@@ -26,7 +26,7 @@ Bootstrap Studio both expedited and hindered the website’s construction. The c
 
 Bellow, you can see the *landing page* for the dashboard. The photo is displayed within a pre-built Bootstrap Carole. The JS functionality adds automatically and needed minimal changes to customize from sliding transitions to fading. 
 
-<img class="ui image rounded" src="../images/mpo_landing.png">
+<img class="ui image rounded" src="../images/mpo_landing.PNG">
 
 Bootstrap Studio was best suited for simple pages such as the one below. With basic links and icons for downloading the data as .csv or .pdf, and linking to locations within the same page. 
 <img class="ui image rounded" src="../images/mpo_page_resources.jpg">
@@ -51,7 +51,8 @@ Leaflet offers many customizations features for mapping. For example, the code s
         }
         return div; 
     } 
-    legend.addTo(myMap);```
+    legend.addTo(myMap);   
+```
 
 *Charts.js* is a JS library for data visualization via 8 different char types, and chart enhancements; such as shaded areas under a line and mixing chart types. 
  
@@ -65,7 +66,8 @@ Bellow, is the JS function `changeGraph` used to read the HTML elements value an
     removeAllData(chart);
     addNewData(chart, 0, newData.get('AM'));
     addNewData(chart, 1, newData.get('PM'));
-  }```
+  }
+```
 
 ---
 ### The Dashboard 
