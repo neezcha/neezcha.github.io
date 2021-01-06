@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/map.png
+image: images/map.PNG
 title: ORTP Dashboard 
 permalink: projects/ortp 
 # All dates must be YYYY-MM-DD format!
