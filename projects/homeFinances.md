@@ -38,6 +38,4 @@ The first step of data visualization is plotting the payees, our household outfl
 On the right is the pie chart representing the proportional amount paid per payee. The chart is interactive with Bokeh’s built-in zoom features, as well as custom tool tips indicating the name of the payee, the percent they take up of the total cash outflow, and exact amount paid. Next I plan to categorize the payees by Needs, Wants, Savings and comparing the percentages to the 20/50/30. 
 
 <img class="ui image" src="../images/hf_line_payees_censored.jpg"> 
-
-On the right is the line charts, plotting the amount paid to each payee over time. Each year is split into tabs. The names of each payee has been blurred per request. 
-
+On the right is the line charts, plotting the amount paid to each payee over time. Each year is split into tabs. The names of each payee has been blurred per request. This chart also has Bokeh’s interactive zoom and custom tooltips. The legend to the right of the graph hides any selected payees, to clean up the chart and make it easier to read. 
