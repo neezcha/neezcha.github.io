@@ -6,7 +6,7 @@
     "email": "neezchad@gmail.com",
     "phone": "808-554-6080",
     "website": "https://neezcha.github.io",
-    "summary": "Graduated Spring 2020 from UHM with a BS in Computer Science. My goal is to create an inclusive and accessible technological world.",
+    "summary": "Currently working at First Hawaiian Bank as an IT Help Desk Technician. Graduated Spring 2020 from UHM with a BS in Computer Science. My goal is to create an inclusive and accessible technological world.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -92,12 +92,22 @@
     } 
   ],
   "work": [
+    { "company": "First Hawaiian Bank",
+      "position": "IT Help Desk",
+      "website": "https://www.fhb.com/en/",
+      "startDate": "2021",
+      "endDate": " ",
+      "highlights": [
+        " ",
+        " "]
+     
+    },
       {
       "company": "Oahu MPO",
       "position": "Intern",
       "website": "oahumpo.org",
       "startDate": "2020",
-      "endDate": " ",
+      "endDate": "2020",
       "highlights": [
         "Create a mockup for a public-facing dashboard.",
         "Visualize data in comprehensive ways.",
