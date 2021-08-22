@@ -39,7 +39,8 @@ Two different JavaScript libraries were used to visualize the two different type
 
 Leaflet offers many customizations features for mapping. For example, the code sample bellow was used to create a legend based on the data displayed in the map. The HTML code to create color blocks and text displayed on the map were created in this JS code. 
 
-```var legend = L.control({position:'bottomleft'});
+```
+var legend = L.control({position:'bottomleft'});
     legend.onAdd = function(myMap){
         var div = L.DomUtil.create('div', 'legend');
         var labels = ["Heavy (>1.5)", "Moderate (1.3 - 1.5)", "Low (<1.3)"];
@@ -59,7 +60,8 @@ Leaflet offers many customizations features for mapping. For example, the code s
  
 Bellow, is the JS function `changeGraph` used to read the HTML elements value and change the data displayed on the charts.js graph. Function `reemoveAllData` and `addNewData` are both custom made functions to interact with charts.js. 
 
-``` function changeGraph(){
+``` 
+function changeGraph(){
     let roads = selectRoad.options[selectRoad.selectedIndex].value;
     let measures = selectMeasure.options[selectMeasure.selectedIndex].value;
 
