@@ -93,13 +93,14 @@
   ],
   "work": [
     { "company": "First Hawaiian Bank",
-      "position": "IT Help Desk",
-      "website": "https://www.fhb.com/en/",
+      "position": "IT Help Desk Technician I",
+      "website": "fhb.com",
       "startDate": "2021",
       "endDate": " ",
       "highlights": [
-        " ",
-        " "]
+        "Basic troubleshooting on software and hardware issues",
+        "Assisted in easing transition from on-prem to cloud base hosting",
+        "Assisted in trainting Technician III"]
      
     },
       {
