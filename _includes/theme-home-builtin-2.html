@@ -18,9 +18,9 @@
     <p class="">
       {{ site.data.bio.basics.summary }}
     </p>
-    <p>:
-      {% for interest in site.data.bio.skills %}
-        {{ skills.name }}{% if forloop.last != true %}, {% endif %}
+    <p>Interests:
+      {% for interest in site.data.bio.interests %}
+        {{ interest.name }}{% if forloop.last != true %}, {% endif %}
       {% endfor %}
     </p>
     <p style="text-align: center">
