@@ -6,11 +6,11 @@
     "email": "neezchad@gmail.com",
     "phone": "808-554-6080",
     "website": "https://neezcha.github.io",
-    "summary": "Currently working at First Hawaiian Bank as an IT Help Desk Technician. Graduated Spring 2020 from UHM with a BS in Computer Science. My goal is to create an inclusive and accessible technological world.",
+    "summary": "Full-stack software engineer with over 4 years of experience in application development, security workflow automation, and IT support. Adept at improving system performance and integrating applications with existing systems. Proficient in JavaScript, Java, and Spring Boot, with a strong foundation in IT infrastructure and end-user support.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Kailua",
+      "city": "Honolulu",
       "countryCode": "",
       "region": "Hawaii"
     },
@@ -27,71 +27,41 @@
       }
     ]
   },
-  "interests": [
-    {
-      "name": "Astronomy",
-    },
-    {
-      "name": "Sustainability",
-      "keywords": [
-        "enviorment",
-        "climate change",
-        "cultural exchange"
-      ]
-    },
-    {
-      "name": "Data Representation",
-      "keywords": [
-        "data visualization",
-        "data analytics"
-       ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "Python",
-        "Java",
-        "Lisp",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "C",
-        "Semantic UI",
-        "Agile Development"
-      ]
-    },
-    {
-      "name": "Proficient",
-      "level": "",
-      "keywords": [
-        "Microsoft Office Suite",
-        "React in Meteor",
-        "Jupyter Notebook"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (Graduated Spring, 2020)",
-      "studyType": "B.S.",
-      "startDate": "",
-      "endDate": "2020",
-      "gpa": "",
-      "courses": [
-         "Data Science",
-         "Mobile Development",
-         "Data Bases",
-         "Cognitive Science",
-         "Software Engineering I and II",
-         "Networks"
-      ]
-    } 
-  ],
   "work": [
+    { "company": "IntelliBridge ",
+      "position": "Software Engineer II",
+      "website": "www.intellibridge.us/",
+      "startDate": "2024",
+      "endDate": " ",
+      "highlights": [
+        "Full stack application development; writing, testing, and peer reviewing.",
+        "Front and backend feature requests and improvements on existing applications to schedule and manage workflows for security assessments.",
+        "Front end library updates",
+        "JavaScript, React, Jest, Java, Spring Boot, Node.js, PostgreSQL, OpenAPI, IntelliJ, SQS, S3."]
+     
+    },
+    { "company": "IntelliBridge ",
+      "position": "Software Engineer I",
+      "website": "www.intellibridge.us/",
+      "startDate": "2023",
+      "endDate": "2024",
+      "highlights": [
+        "Full stack application development; writing, testing, and peer reviewing.",
+        "Built frontend and some yaml automation commands for proof of concept application that would build GitLab and GitHub workflows.",
+        "Reskinned frontend for application integration with a different company’s existing product.",
+        "JavaScript, React, Jest, Java, Spring Boot, Node.js, PostgreSQL, OpenAPI, IntelliJ, SQS, S3."]
+     
+    },
+    { "company": "First Hawaiian Bank",
+      "position": "IT Infrastructure End User Support Technician I",
+      "website": "fhb.com",
+      "startDate": "2023",
+      "endDate": " ",
+      "highlights": [
+        "Troubleshoot and research escalated IT issues.",
+        "Support IT Infrastructure operations and projects related to end users."]
+     
+    },
     { "company": "First Hawaiian Bank",
       "position": "IT Help Desk Technician I",
       "website": "fhb.com",
@@ -103,16 +73,15 @@
         "Processed request tickets and created incident tickets using ServiceNow."]
      
     },
-      {
+    {
       "company": "Oahu MPO",
       "position": "Intern",
       "website": "oahumpo.org",
       "startDate": "2020",
       "endDate": "2020",
       "highlights": [
-        "Create a mockup for a public-facing dashboard.",
-        "Visualize data in comprehensive ways.",
-        "JavaScript, HTML, CSS, Charts.js, Leaflet.js, Bootstrap, ARC GIS."]
+        "Created a mockup for a public-facing dashboard, of interactive maps indicating reliability and congestion of Oahu Roads and graphs of these trends over time",
+        "JavaScript, HTML, CSS, Charts.js, Leaflet.js, Bootstrap, ARC GIS, VSCode."]
     },
     {
       "company": "Japanese Cultural Center: Resource Center",
@@ -148,7 +117,7 @@
         "Mentored the group on budgeting and large scale planning."]
     }
   ],
-  "volunteer": [
+  "Background": [
     {
       "position": "Certification, American Heart Association",
       "startDate": "2018",
@@ -186,24 +155,51 @@
       "startDate": "2014"
     }
   ],
-  "awards": [
+  ],
+    "education": [
     {
-      "title": "B+ Scholarship",
-      "date": "2015-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": [
+         "Data Science",
+         "Mobile Development",
+         "Data Bases",
+         "Cognitive Science",
+         "Software Engineering I and II",
+         "Networks"
+      ]
+    } 
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "React",
+        "Jest",
+        "Java",
+        "SpringBoot",
+        "Node.js",
+        "PostreSQL",
+        "OpenAPI",
+      ]
     },
     {
-      "title": "Service Learning Award",
-      "date": "2016 - Present",
-      "awarder": "Manoa Service Award",
-      "summary": "Scholarship for studying as a full-time student during the regular academic semester while regularly volunteering"
-    },
-    {
-      "title": "American Society for Quality (ASQ)",
-      "date": "2015",
-      "awarder": "Glenn Hamamura Scholarship ",
-      "summary": "Scholarship for students in the STEM fields"
+      "name": "Tools and Proficiencies",
+      "level": "",
+      "keywords": [
+        "Microsoft Office Suite",
+        "IntelliJ",
+        "VSCode",
+        "SQS",
+        "S3",
+        "Agile Development",
+      ]
     }
   ],
   "references": [
