@@ -207,23 +207,34 @@
       "reference": ""
     }
   ],
-  "interests": [
-    
-      "JavaScript",
-        "React",
+   "interests": [
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "TypeScript",
         "Jest",
-        "Java",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Java",
+      "keywords": [
         "SpringBoot",
-        "Node.js",
+      ]
+    },
+    {
+      "name": "",
+      "keywords": [
         "PostreSQL",
         "OpenAPI",
-      "Microsoft Office Suite",
-        "IntelliJ",
-        "VSCode",
         "SQS",
         "S3",
-        "Agile Development",
-    
-  ]
+        "IntelliJ",
+        "VSCode",
+        "Agile Development"
+       ]
+    }
+  ],
 }
 
