@@ -28,16 +28,27 @@
     ]
   },
   "work": [
+    { "company": "Altres ",
+      "position": "Full Stack Software Engineer",
+      "website": "www.altres.com",
+      "startDate": "2025",
+      "endDate": "Current",
+      "highlights": [
+        "Maintain and enhance company platform, ensuring reliability, security, and scalability.",
+        "Write clean, maintainable, and efficient code, adhering to best practices and coding standards.",
+        "Java 8, Sprint, JavaScript, MySQL, Git, IntelliJ, Agile."]
+     
+    },
     { "company": "IntelliBridge ",
       "position": "Software Engineer II",
       "website": "www.intellibridge.us/",
       "startDate": "2024",
-      "endDate": "Current",
+      "endDate": "2025",
       "highlights": [
         "Full stack application development; writing, testing, and peer reviewing.",
         "Front and backend feature requests and improvements on existing applications to schedule and manage workflows for security assessments.",
         "Front end library updates",
-        "JavaScript, React, Jest, Java, Spring Boot, Node.js, PostgreSQL, OpenAPI, IntelliJ, SQS, S3."]
+        "JavaScript, React, Jest, Java, Spring Boot, Node.js, PostgreSQL, OpenAPI, IntelliJ, SQS, S3, Agile."]
      
     },
     { "company": "IntelliBridge ",
@@ -49,7 +60,7 @@
         "Full stack application development; writing, testing, and peer reviewing.",
         "Built frontend and some yaml automation commands for proof of concept application that would build GitLab and GitHub workflows.",
         "Reskinned frontend for application integration with a different company’s existing product.",
-        "JavaScript, React, Jest, Java, Spring Boot, Node.js, PostgreSQL, OpenAPI, IntelliJ, SQS, S3."]
+        "JavaScript, React, Jest, Java, Spring Boot, Node.js, PostgreSQL, OpenAPI, IntelliJ, SQS, S3, Agile."]
      
     },
     { "company": "First Hawaiian Bank",
